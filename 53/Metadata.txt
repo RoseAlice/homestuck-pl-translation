@@ -1,1 +1,12 @@
-{ "Title": "John: Przewróć urnę.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Dołóż fajkę taty do podstępnego przebrania.", "LinkHref": 54 } ] }
+{
+  "Title": "John: Przewróć urnę.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Dołóż fajkę taty do podstępnego przebrania.",
+      "LinkHref": 54
+    }
+  ]
+}

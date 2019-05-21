@@ -1,1 +1,12 @@
-{ "Title": "John: Zacaptchaloguj kapsułki dymne.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Załóż atrapowe ramiona.", "LinkHref": 10 } ] }
+{
+  "Title": "John: Zacaptchaloguj kapsułki dymne.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Załóż atrapowe ramiona.",
+      "LinkHref": 10
+    }
+  ]
+}

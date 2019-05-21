@@ -1,1 +1,12 @@
-{ "Title": "Podaj imię.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "Spróbuj ponownie.", "LinkHref": 3 } ] }
+{
+  "Title": "Podaj imię.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "Spróbuj ponownie.",
+      "LinkHref": 3
+    }
+  ]
+}

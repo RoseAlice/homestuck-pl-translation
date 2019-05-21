@@ -1,1 +1,13 @@
-{ "Title": "John: Zobacz kto do ciebie pisze.", "Images": [ "1.gif", "2.gif" ], "NextPageLinks": [ { "LinkName": "John: Otwórz Pesterchum.", "LinkHref": 25 } ] }
+{
+  "Title": "John: Zobacz kto do ciebie pisze.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Otwórz Pesterchum.",
+      "LinkHref": 25
+    }
+  ]
+}

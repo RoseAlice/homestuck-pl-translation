@@ -1,1 +1,12 @@
-{ "Title": "John: Prędko zgarnij ramiona z komody.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "Usuń CIASTO z MAGIKUFERKA.", "LinkHref": 6 } ] }
+{
+  "Title": "John: Prędko zgarnij ramiona z komody.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "Usuń CIASTO z MAGIKUFERKA.",
+      "LinkHref": 6
+    }
+  ]
+}

@@ -1,1 +1,13 @@
-{ "Title": "John: Przyporządkuj młotek do specybusu starcia.", "Images": [ "1.gif", "2.gif" ], "NextPageLinks": [ { "LinkName": "John: Wybierz 'MŁOTOTYP'.", "LinkHref": 38 } ] }
+{
+  "Title": "John: Przyporządkuj młotek do specybusu starcia.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Wybierz 'MŁOTOTYP'.",
+      "LinkHref": 38
+    }
+  ]
+}

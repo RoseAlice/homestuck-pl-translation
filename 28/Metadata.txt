@@ -1,1 +1,13 @@
-{ "Title": "John: Zobacz, czy coś nie zostało dostarczone.", "Images": [ "1.gif", "2.gif" ], "NextPageLinks": [ { "LinkName": "John: Zbiegnij na dół i sprawdź, czy nie ma tam bety!", "LinkHref": 29 } ] }
+{
+  "Title": "John: Zobacz, czy coś nie zostało dostarczone.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zbiegnij na dół i sprawdź, czy nie ma tam bety!",
+      "LinkHref": 29
+    }
+  ]
+}

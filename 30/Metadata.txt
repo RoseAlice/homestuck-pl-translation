@@ -1,1 +1,12 @@
-{ "Title": "John: Zapomnij o tym. Możesz później sprawdzić pocztę.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Opisz gry na twoim stojaku z płytami CD.", "LinkHref": 31 } ] }
+{
+  "Title": "John: Zapomnij o tym. Możesz później sprawdzić pocztę.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Opisz gry na twoim stojaku z płytami CD.",
+      "LinkHref": 31
+    }
+  ]
+}

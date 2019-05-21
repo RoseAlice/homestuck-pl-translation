@@ -1,1 +1,12 @@
-{ "Title": "John: Odpisz koledze.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Połącz atrapowe ramiona z ciastem.", "LinkHref": 36 } ] }
+{
+  "Title": "John: Odpisz koledze.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Połącz atrapowe ramiona z ciastem.",
+      "LinkHref": 36
+    }
+  ]
+}

@@ -1,1 +1,12 @@
-{ "Title": "John: Doceń arlekiny na regale.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Przyjrzyj się kominkowi.", "LinkHref": 50 } ] }
+{
+  "Title": "John: Doceń arlekiny na regale.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Przyjrzyj się kominkowi.",
+      "LinkHref": 50
+    }
+  ]
+}

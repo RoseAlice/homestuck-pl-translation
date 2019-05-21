@@ -1,1 +1,12 @@
-{ "Title": "John: Opisz swój plakat Problem Sleuth", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Przeczytaj notkę na komodzie.", "LinkHref": 12 } ] }
+{
+  "Title": "John: Opisz swój plakat Problem Sleuth",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Przeczytaj notkę na komodzie.",
+      "LinkHref": 12
+    }
+  ]
+}

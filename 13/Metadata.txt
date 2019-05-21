@@ -1,1 +1,12 @@
-{ "Title": "John: Weź plakat.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Weź młotek oraz gwoździe. Na pewno będą przydatne.", "LinkHref": 14 } ] }
+{
+  "Title": "John: Weź plakat.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Weź młotek oraz gwoździe. Na pewno będą przydatne.",
+      "LinkHref": 14
+    }
+  ]
+}

@@ -1,1 +1,13 @@
-{ "Title": "John: Przybij plakat do ściany.", "Images": [ "1.gif", "2.gif" ], "NextPageLinks": [ { "LinkName": "John: Opisz plakat filmu 'Con Air'.", "LinkHref": 20 } ] }
+{
+  "Title": "John: Przybij plakat do ściany.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Opisz plakat filmu 'Con Air'.",
+      "LinkHref": 20
+    }
+  ]
+}

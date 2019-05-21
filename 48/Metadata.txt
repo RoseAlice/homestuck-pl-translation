@@ -1,1 +1,13 @@
-{ "Title": "John: Zejdź na dół.", "Images": [ "1.gif", "2.gif" ], "NextPageLinks": [ { "LinkName": "John: Doceń arlekiny na regale.", "LinkHref": 49 } ] }
+{
+  "Title": "John: Zejdź na dół.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Doceń arlekiny na regale.",
+      "LinkHref": 49
+    }
+  ]
+}

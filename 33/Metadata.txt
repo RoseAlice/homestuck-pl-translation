@@ -1,1 +1,12 @@
-{ "Title": "John: Ponownie zacaptchaloguj atrapowe ramiona.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Zmień swój status w Pesterchumie na 'ROZINDYCZONY'.", "LinkHref": 34 } ] }
+{
+  "Title": "John: Ponownie zacaptchaloguj atrapowe ramiona.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zmień swój status w Pesterchumie na 'ROZINDYCZONY'.",
+      "LinkHref": 34
+    }
+  ]
+}

@@ -1,1 +1,12 @@
-{ "Title": "John: Zacaptchaloguj magazyn GameBro.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Zacaptchaloguj czapkę magika.", "LinkHref": 44 } ] }
+{
+  "Title": "John: Zacaptchaloguj magazyn GameBro.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zacaptchaloguj czapkę magika.",
+      "LinkHref": 44
+    }
+  ]
+}

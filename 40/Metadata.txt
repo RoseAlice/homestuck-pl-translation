@@ -1,1 +1,12 @@
-{ "Title": "John: Zacaptchaloguj masywną książkę pułkownika.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Przyjrzyj się magazynowi GameBro.", "LinkHref": 41 } ] }
+{
+  "Title": "John: Zacaptchaloguj masywną książkę pułkownika.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Przyjrzyj się magazynowi GameBro.",
+      "LinkHref": 41
+    }
+  ]
+}

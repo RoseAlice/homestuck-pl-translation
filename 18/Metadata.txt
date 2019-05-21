@@ -1,1 +1,12 @@
-{ "Title": "John: Użyj kombinacji młotek/gwoździe na plakacie.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Przybij plakat do ściany.", "LinkHref": 19 } ] }
+{
+  "Title": "John: Użyj kombinacji młotek/gwoździe na plakacie.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Przybij plakat do ściany.",
+      "LinkHref": 19
+    }
+  ]
+}

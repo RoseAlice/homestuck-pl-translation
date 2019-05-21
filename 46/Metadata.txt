@@ -1,1 +1,12 @@
-{ "Title": "John: Załóż przebranie by zmylić tatę.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Opuść pokój.", "LinkHref": 47 } ] }
+{
+  "Title": "John: Załóż przebranie by zmylić tatę.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Opuść pokój.",
+      "LinkHref": 47
+    }
+  ]
+}

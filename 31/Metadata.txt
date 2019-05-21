@@ -1,1 +1,12 @@
-{ "Title": "John: Opisz gry na twoim stojaku z płytami CD.", "Images": [ "custom" ], "NextPageLinks": [ { "LinkName": "John: Przeczytaj TRUDNY TEKST PUŁKOWNIKA SASSACRE.", "LinkHref": 32 } ] }
+{
+  "Title": "John: Opisz gry na twoim stojaku z płytami CD.",
+  "Images": [
+    "custom"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Przeczytaj TRUDNY TEKST PUŁKOWNIKA SASSACRE.",
+      "LinkHref": 32
+    }
+  ]
+}

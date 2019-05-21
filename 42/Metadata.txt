@@ -1,1 +1,12 @@
-{ "Title": "John: Przeczytaj artykuł.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Zacaptchaloguj magazyn GameBro.", "LinkHref": 43 } ] }
+{
+  "Title": "John: Przeczytaj artykuł.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zacaptchaloguj magazyn GameBro.",
+      "LinkHref": 43
+    }
+  ]
+}

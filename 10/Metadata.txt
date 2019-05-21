@@ -1,1 +1,12 @@
-{ "Title": "John: Załóż atrapowe ramiona.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Opisz swój plakat Problem Sleuth", "LinkHref": 11 } ] }
+{
+  "Title": "John: Załóż atrapowe ramiona.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Opisz swój plakat Problem Sleuth",
+      "LinkHref": 11
+    }
+  ]
+}

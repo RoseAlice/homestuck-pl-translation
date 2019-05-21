@@ -1,1 +1,12 @@
-{ "Title": "John: Zakwicz jak imbecyl i zesraj się na twoje biurko.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Skombinuj młotek wraz z gwoździami.", "LinkHref": 17 } ] }
+{
+  "Title": "John: Zakwicz jak imbecyl i zesraj się na twoje biurko.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Skombinuj młotek wraz z gwoździami.",
+      "LinkHref": 17
+    }
+  ]
+}

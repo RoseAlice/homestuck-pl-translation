@@ -1,1 +1,13 @@
-{ "Title": "John: Przeczytaj TRUDNY TEKST PUŁKOWNIKA SASSACRE.", "Images": [ "1.gif", "2.gif" ], "NextPageLinks": [ { "LinkName": "John: Ponownie zacaptchaloguj atrapowe ramiona.", "LinkHref": 33 } ] }
+{
+  "Title": "John: Przeczytaj TRUDNY TEKST PUŁKOWNIKA SASSACRE.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Ponownie zacaptchaloguj atrapowe ramiona.",
+      "LinkHref": 33
+    }
+  ]
+}

@@ -1,1 +1,13 @@
-{ "Title": "John: Wrzuć GameBro do ognia.", "Images": [ "1.gif", "2.gif" ], "NextPageLinks": [ { "LinkName": "John: Przyjrzyj się urnie.", "LinkHref": 52 } ] }
+{
+  "Title": "John: Wrzuć GameBro do ognia.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Przyjrzyj się urnie.",
+      "LinkHref": 52
+    }
+  ]
+}

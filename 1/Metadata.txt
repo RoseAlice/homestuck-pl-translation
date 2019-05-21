@@ -1,1 +1,12 @@
-{ "Title": "Homestuck", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "Podaj imię.", "LinkHref": 2 } ] }
+{
+  "Title": "Homestuck",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "Podaj imię.",
+      "LinkHref": 2
+    }
+  ]
+}

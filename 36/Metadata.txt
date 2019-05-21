@@ -1,1 +1,12 @@
-{ "Title": "John: Połącz atrapowe ramiona z ciastem.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Przyporządkuj młotek do specybusu starcia.", "LinkHref": 37 } ] }
+{
+  "Title": "John: Połącz atrapowe ramiona z ciastem.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Przyporządkuj młotek do specybusu starcia.",
+      "LinkHref": 37
+    }
+  ]
+}

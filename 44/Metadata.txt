@@ -1,1 +1,12 @@
-{ "Title": "John: Zacaptchaloguj czapkę magika.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Weź też te śmieszne okularki.", "LinkHref": 45 } ] }
+{
+  "Title": "John: Zacaptchaloguj czapkę magika.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Weź też te śmieszne okularki.",
+      "LinkHref": 45
+    }
+  ]
+}
