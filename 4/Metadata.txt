@@ -1,0 +1,1 @@
+{ "Title": "Opisz pokój.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Prędko zgarnij ramiona z komody.", "LinkHref": 5 } ] }

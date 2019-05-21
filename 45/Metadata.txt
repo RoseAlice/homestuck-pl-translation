@@ -1,0 +1,1 @@
+{ "Title": "John: Weź też te śmieszne okularki.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Załóż przebranie by zmylić tatę.", "LinkHref": 46 } ] }

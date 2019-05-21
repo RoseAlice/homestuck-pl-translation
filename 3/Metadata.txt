@@ -1,0 +1,1 @@
+{ "Title": "Spróbuj ponownie.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "Opisz pokój.", "LinkHref": 4 } ] }

@@ -1,0 +1,12 @@
+
+|PESTERLOG|
+
+john|EB|ok, ogarnąłem wszystko.
+dave|TG|mlototyp?
+john|EB|tak.
+dave|TG|ok ten wybor typoabstrakcji bedzie permamentny
+dave|TG|chyba powinienem byl wczesniej o tym wspomniec
+john|EB|uh...
+dave|TG|coz milego wbijania gwozdzi!
+john|EB|dzięki.
+john|EB|w sumie ten wybór i tak raczej nie będzie miał większego znaczenia, więc kogo to obchodzi.

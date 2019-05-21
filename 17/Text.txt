@@ -1,0 +1,3 @@
+SCALASZ dwie górne karty.
+
+MŁOTEK oraz GWOŹDZIE znajdują się teraz razem na jednej karcie, i są dostępne do wspólnego wykorzystania.

@@ -1,0 +1,1 @@
+{ "Title": "John: Opuść pokój.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Zejdź na dół.", "LinkHref": 48 } ] }

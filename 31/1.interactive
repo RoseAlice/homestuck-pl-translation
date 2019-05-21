@@ -1,0 +1,84 @@
+{
+  "Playback":"video.webm",
+  "HoverArea": [{
+    "Coords": [103, 166],
+    "Size": [5, 165],
+    "Display": {
+        "Coords": [326, 102],
+        "Image": "bq.png"
+    }
+    "OnClick": {
+      "Goto":"#"
+    }
+  }, {
+    "Coords": [113, 166],
+    "Size": [5, 165],
+    "Display": {
+        "Coords": [326, 102],
+        "Image": "tch.png"
+    }
+    "OnClick": {
+      "Goto":"#"
+    }
+  }, {
+    "Coords": [138, 166],
+    "Size": [5, 160],
+    "Display": {
+        "Coords": [326, 102],
+        "Image": "ps.png"
+    }
+    "OnClick": {
+      "Goto":"#"
+    }
+  }, {
+    "Coords": [148, 161],
+    "Size": [5, 165],
+    "Display": {
+        "Coords": [326, 102],
+        "Image": "aids.png"
+    }
+    "OnClick": {
+      "Goto":"#"
+    }
+  }, {
+    "Coords": [173, 156],
+    "Size": [5, 165],
+    "Display": {
+        "Coords": [326, 102],
+        "Image": "jb.png"
+    }
+    "OnClick": {
+      "Goto":"#"
+    }
+  }, {
+    "Coords": [198, 156],
+    "Size": [5, 165],
+    "Display": {
+        "Coords": [326, 102],
+        "Image": "gbm.png"
+    }
+    "OnClick": {
+      "Goto":"#"
+    }
+  }, {
+    "Coords": [208, 166],
+    "Size": [5, 150],
+    "Display": {
+        "Coords": [326, 102],
+        "Image": "lm.png"
+    }
+    "OnClick": {
+      "Goto":"#"
+    }
+  }, {
+    "Coords": [228, 151],
+    "Size": [5, 165],
+    "Display": {
+        "Coords": [326, 102],
+        "Image": "hacmb.png"
+    }
+    "OnClick": {
+      "Goto":"#"
+    }
+  }]
+}

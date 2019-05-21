@@ -1,0 +1,1 @@
+{ "Title": "John: Zbiegnij na dół i sprawdź, czy nie ma tam bety!", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Zapomnij o tym. Możesz później sprawdzić pocztę.", "LinkHref": 30 } ] }

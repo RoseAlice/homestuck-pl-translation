@@ -1,0 +1,1 @@
+{ "Title": "John: Przyjrzyj się magazynowi GameBro.", "Images": [ "1.gif" ], "NextPageLinks": [ { "LinkName": "John: Przeczytaj artykuł.", "LinkHref": 42 } ] }
