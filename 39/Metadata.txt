@@ -5,7 +5,7 @@
   ],
   "NextPageLinks": [
     {
-      "LinkName": "John: Zacaptchaloguj masywną książkę pułkownika.",
+      "LinkName": "John: Zcaptchaloguj masywną książkę pułkownika.",
       "LinkHref": 40
     }
   ]

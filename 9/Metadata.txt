@@ -1,5 +1,5 @@
 {
-  "Title": "John: Zacaptchaloguj kapsułki dymne.",
+  "Title": "John: Zcaptchaloguj kapsułki dymne.",
   "Images": [
     "1.gif"
   ],

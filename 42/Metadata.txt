@@ -5,7 +5,7 @@
   ],
   "NextPageLinks": [
     {
-      "LinkName": "John: Zacaptchaloguj magazyn GameBro.",
+      "LinkName": "John: Zcaptchaloguj magazyn GameBro.",
       "LinkHref": 43
     }
   ]
