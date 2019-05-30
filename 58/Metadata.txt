@@ -1,12 +1,12 @@
 {
-  "Title": "John: Dołóż fajkę taty do podstępnego przebrania.",
+  "Title": "John: Scal prochy z urną.",
   "Images": [
     "1.gif"
   ],
   "NextPageLinks": [
     {
-      "LinkName": "John: Dołóż fajkę taty do podstępnego przebrania.",
-      "LinkHref": 55
+      "LinkName": "John: Odłóż urnę.", 
+      "LinkHref": 59
     }
   ]
 }

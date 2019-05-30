@@ -5,7 +5,7 @@
   ],
   "NextPageLinks": [
     {
-      "LinkName": "John: Dołóż fajkę taty do podstępnego przebrania.",
+      "LinkName": "John: Przypatrz się ogromnemu prezentowi.",
       "LinkHref": 55
     }
   ]

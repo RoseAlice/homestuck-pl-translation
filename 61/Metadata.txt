@@ -1,12 +1,12 @@
 {
-  "Title": "John: Dołóż fajkę taty do podstępnego przebrania.",
+  "Title": "John: Przyjrzyj się trzeciej oraz czwartej ścianie twojego pokoju.",
   "Images": [
     "1.gif"
   ],
   "NextPageLinks": [
     {
-      "LinkName": "John: Dołóż fajkę taty do podstępnego przebrania.",
-      "LinkHref": 55
+      "LinkName": "John: Sprawdź Pesterchuma.",
+      "LinkHref": 62
     }
   ]
 }

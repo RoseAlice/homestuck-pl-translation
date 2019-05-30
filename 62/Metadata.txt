@@ -1,12 +1,13 @@
 {
-  "Title": "John: Dołóż fajkę taty do podstępnego przebrania.",
+  "Title": "John: Sprawdź Pesterchuma.",
   "Images": [
-    "1.gif"
+    "1.gif",
+    "2.gif"
   ],
   "NextPageLinks": [
     {
-      "LinkName": "John: Dołóż fajkę taty do podstępnego przebrania.",
-      "LinkHref": 55
+      "LinkName": "John: Przeczytaj wiadomość.",
+      "LinkHref": 63
     }
   ]
 }

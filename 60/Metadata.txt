@@ -1,12 +1,12 @@
 {
-  "Title": "John: Dołóż fajkę taty do podstępnego przebrania.",
+  "Title": "John: Wróć się po atrapowe ramiona.",
   "Images": [
     "1.gif"
   ],
   "NextPageLinks": [
     {
-      "LinkName": "John: Dołóż fajkę taty do podstępnego przebrania.",
-      "LinkHref": 55
+      "LinkName": "John: Przyjrzyj się trzeciej oraz czwartej ścianie twojego pokoju.",
+      "LinkHref": 61
     }
   ]
 }
