@@ -6,7 +6,7 @@
   ],
   "NextPageLinks": [
     {
-      "LinkName": "John: Ponownie zacaptchaloguj atrapowe ramiona.",
+      "LinkName": "John: Ponownie zcaptchaloguj atrapowe ramiona.",
       "LinkHref": 33
     }
   ]

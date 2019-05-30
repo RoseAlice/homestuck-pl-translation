@@ -1,5 +1,5 @@
 {
-  "Title": "John: Ponownie zacaptchaloguj atrapowe ramiona.",
+  "Title": "John: Ponownie zcaptchaloguj atrapowe ramiona.",
   "Images": [
     "1.gif"
   ],
