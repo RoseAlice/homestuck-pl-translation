@@ -1,0 +1,12 @@
+{
+  "Title": "John: Przeczytaj wiadomość.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zejdź na dół.",
+      "LinkHref": 64
+    }
+  ]
+}

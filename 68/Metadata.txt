@@ -1,0 +1,12 @@
+{
+  "Title": "John: Zcaptchaloguj lalkę.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Przeczytaj tekst pułkownika.",
+      "LinkHref": 69
+    }
+  ]
+}

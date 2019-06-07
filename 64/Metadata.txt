@@ -1,0 +1,12 @@
+{
+  "Title": "John: Zejdź na dół.",
+  "Images": [
+    "1.gif" 
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Przyczep atrapowe ramiona do lalki.",        
+      "LinkHref": 65
+    }
+  ]
+}

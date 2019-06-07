@@ -1,0 +1,12 @@
+{
+  "Title": "John: Wrzuć opakowanie prezentu do kominka.",
+  "Images": [
+    "1.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zcaptchaloguj lalkę.",                  
+      "LinkHref": 68
+    }
+  ]
+}

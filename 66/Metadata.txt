@@ -1,0 +1,13 @@
+{
+  "Title": "John: Przyjrzyj się osmalonemu kawałkowi papieru na podłodze.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Wrzuć opakowanie prezentu do kominka.",
+      "LinkHref": 67
+    }
+  ]
+}
