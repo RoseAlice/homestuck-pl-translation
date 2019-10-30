@@ -3,6 +3,8 @@
   "Images": [
     "custom"
   ],
+  "HasCustomFlash":true,
+  "Status":"00100010",
   "NextPageLinks": [
     {
       "LinkName": "John: Przeczytaj TRUDNY TEKST PUŁKOWNIKA SASSACRE.",

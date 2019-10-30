@@ -3,6 +3,7 @@
   "Images": [
     "1.gif"
   ],
+  "Status":"00010001",
   "NextPageLinks": [
     {
       "LinkName": "Podaj imię.",

@@ -1,0 +1,15 @@
+<script src="/Images/Homestuck/90/script.js"></script><div id="playback" style="width:650px;height:450px;"><video id="Abjure" width="650" height="450" >
+</video><video id="Aggress" width="650" height="450" >
+</video><video id="Loop" width="650" height="450" loop>
+</video><video id="Intro" width="650" height="450" >
+		<!-- <source src="/Images/Homestuck/90/Intro.mp4" type="video/webm" /> -->
+
+		Twoja przeglądarka nie wspiera HTML5 Video :(
+		Aby obejrzeć tą animacje, zaktualizuj przeglądarkę.
+	</video><audio id="audio" loop>
+					<source src="/Images/Homestuck/90/audio.ogg" type="audio/ogg"/>
+	</audio><audio id="Hitsound">
+					<source src="/Images/Homestuck/90/Hitsound.ogg" type="audio/ogg"/>
+	</audio>
+	<div class="interact"></div><link rel="stylesheet" href="/Images/Homestuck/90/90.css" />
+</div>

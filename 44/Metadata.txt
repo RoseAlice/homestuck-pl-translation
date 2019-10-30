@@ -1,8 +1,9 @@
 {
-  "Title": "John: Zcaptchaloguj czapkę magika.",
+  "Title": "John: Zacaptchaloguj czapkę magika.",
   "Images": [
     "1.gif"
   ],
+  "Status":"00000001",
   "NextPageLinks": [
     {
       "LinkName": "John: Weź też te śmieszne okularki.",

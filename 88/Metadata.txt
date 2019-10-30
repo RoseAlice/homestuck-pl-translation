@@ -1,0 +1,14 @@
+{
+  "Title": "[S] John: Wejdź.",
+  "Images": [
+    "custom"
+  ],
+  "HasCustomFlash":true,
+  "Status":"00110010",
+  "NextPageLinks": [
+    {
+      "LinkName": "==>",
+      "LinkHref": 89
+    }
+  ]
+}

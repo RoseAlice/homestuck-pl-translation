@@ -1,0 +1,13 @@
+{
+  "Title": "John: Wyjdź.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00010001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Sprawdź skrzynkę.",
+      "LinkHref": 81
+    }
+  ]
+}

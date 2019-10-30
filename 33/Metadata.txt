@@ -1,8 +1,9 @@
 {
-  "Title": "John: Ponownie zcaptchaloguj atrapowe ramiona.",
+  "Title": "John: Ponownie zacaptchaloguj atrapowe ramiona.",
   "Images": [
     "1.gif"
   ],
+  "Status":"00000001",
   "NextPageLinks": [
     {
       "LinkName": "John: Zmień swój status w Pesterchumie na 'ROZINDYCZONY'.",

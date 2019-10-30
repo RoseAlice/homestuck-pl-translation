@@ -1,0 +1,10 @@
+<script src="/Images/Homestuck/GenericVideo/script.js"></script><div id="playback"><video id="video" width="650" height="450" >
+		<source src="/Images/Homestuck/88/video.webm" type="video/webm" />
+                <audio id="audio">
+                        <source src="/Images/Homestuck/88/audio.ogg" type="audio/ogg"/>
+                </audio>
+		Twoja przeglądarka nie wspiera HTML5 Video :(
+		Aby obejrzeć tą animacje, zaktualizuj przeglądarkę.
+	</video>
+	<div class="interact"></div>
+</div>

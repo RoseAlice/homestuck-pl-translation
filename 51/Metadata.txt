@@ -4,6 +4,7 @@
     "1.gif",
     "2.gif"
   ],
+  "Status":"00000001",
   "NextPageLinks": [
     {
       "LinkName": "John: Przyjrzyj się urnie.",

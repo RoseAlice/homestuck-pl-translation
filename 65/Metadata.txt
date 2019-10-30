@@ -1,8 +1,9 @@
 {
-  "Title": "John: Przyczep atrapowe ramiona do lalki.",        
+  "Title": "John: Przyczep atrapowe ramiona do lalki.",
   "Images": [
-    "1.gif" 
+    "1.gif"
   ],
+  "Status":"00010001",
   "NextPageLinks": [
     {
       "LinkName": "John: Przyjrzyj się osmalonemu kawałkowi papieru na podłodze.",

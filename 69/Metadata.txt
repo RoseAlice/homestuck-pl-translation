@@ -1,0 +1,14 @@
+{
+  "Title": "John: Przeczytaj tekst pułkownika.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Znajdź tatę i odbierz pocztę.",
+      "LinkHref": 70
+    }
+  ]
+}

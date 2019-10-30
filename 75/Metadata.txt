@@ -1,0 +1,13 @@
+{
+  "Title": "John: Przyjrzyj się karcie captchalogowej.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zacaptchaloguj kartę captchalogową.",
+      "LinkHref": 76
+    }
+  ]
+}

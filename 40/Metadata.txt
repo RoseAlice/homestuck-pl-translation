@@ -1,8 +1,9 @@
 {
-  "Title": "John: Zcaptchaloguj masywną książkę pułkownika.",
+  "Title": "John: Zacaptchaloguj masywną książkę pułkownika.",
   "Images": [
     "1.gif"
   ],
+  "Status":"00000001",
   "NextPageLinks": [
     {
       "LinkName": "John: Przyjrzyj się magazynowi GameBro.",

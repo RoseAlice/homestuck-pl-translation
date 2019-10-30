@@ -3,9 +3,10 @@
   "Images": [
     "1.gif"
   ],
+  "Status":"00010001",
   "NextPageLinks": [
     {
-      "LinkName": "John: Zcaptchaloguj lalkę.",                  
+      "LinkName": "John: Zacaptchaloguj lalkę.",
       "LinkHref": 68
     }
   ]

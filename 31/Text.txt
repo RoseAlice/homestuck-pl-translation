@@ -1,5 +1,4 @@
-<script src="/Images/Homestuck/31/script.js"></script><div id="playback">
-	<video width="650" height="450" autoplay loop>
+<script src="/Images/Homestuck/31/script.js"></script><div id="playback"><video width="650" height="450" autoplay loop>
 		<source src="/Images/Homestuck/31/video.webm" type="video/webm" />
 		Twoja przeglądarka nie wspiera HTML5 Video :(
 		Aby obejrzeć tą animacje, zaktualizuj przeglądarkę.

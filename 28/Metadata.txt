@@ -4,6 +4,7 @@
     "1.gif",
     "2.gif"
   ],
+  "Status":"00010001",
   "NextPageLinks": [
     {
       "LinkName": "John: Zbiegnij na dół i sprawdź, czy nie ma tam bety!",

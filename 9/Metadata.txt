@@ -1,8 +1,9 @@
 {
-  "Title": "John: Zcaptchaloguj kapsułki dymne.",
+  "Title": "John: Zacaptchaloguj kapsułki dymne.",
   "Images": [
     "1.gif"
   ],
+  "Status":"00000001",
   "NextPageLinks": [
     {
       "LinkName": "John: Załóż atrapowe ramiona.",

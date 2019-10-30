@@ -1,0 +1,14 @@
+{
+  "Title": "John: Zagraj w 52 Pick-Up.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Spróbuj wyjść z domu.",
+      "LinkHref": 79
+    }
+  ]
+}

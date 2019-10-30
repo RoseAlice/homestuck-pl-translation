@@ -1,8 +1,9 @@
 {
-  "Title": "John: Odłóż urnę.", 
+  "Title": "John: Odłóż urnę.",
   "Images": [
     "1.gif"
   ],
+  "Status":"00000001",
   "NextPageLinks": [
     {
       "LinkName": "John: Wróć się po atrapowe ramiona.",

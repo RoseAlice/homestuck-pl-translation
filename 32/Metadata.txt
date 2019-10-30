@@ -4,9 +4,10 @@
     "1.gif",
     "2.gif"
   ],
+  "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "John: Ponownie zcaptchaloguj atrapowe ramiona.",
+      "LinkName": "John: Ponownie zacaptchaloguj atrapowe ramiona.",
       "LinkHref": 33
     }
   ]

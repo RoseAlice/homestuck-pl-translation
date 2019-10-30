@@ -1,0 +1,13 @@
+{
+  "Title": "John: Podejrzyj kuchnię przez okno.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00010001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Wbij do kuchni.",
+      "LinkHref": 87
+    }
+  ]
+}

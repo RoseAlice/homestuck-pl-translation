@@ -1,0 +1,13 @@
+{
+  "Title": "John: Przyjrzyj się biurku.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Podmień swoją czapkę na melonik.",
+      "LinkHref": 73
+    }
+  ]
+}

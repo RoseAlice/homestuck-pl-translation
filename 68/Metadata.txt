@@ -1,8 +1,9 @@
 {
-  "Title": "John: Zcaptchaloguj lalkę.",
+  "Title": "John: Zacaptchaloguj lalkę.",
   "Images": [
     "1.gif"
   ],
+  "Status":"00010001",
   "NextPageLinks": [
     {
       "LinkName": "John: Przeczytaj tekst pułkownika.",

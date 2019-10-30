@@ -1,0 +1,14 @@
+{
+  "Title": "John: Sprawdź czy tata nie zostawił poczty w aucie.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "Status":"00010001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Podejrzyj kuchnię przez okno.",
+      "LinkHref": 86
+    }
+  ]
+}
