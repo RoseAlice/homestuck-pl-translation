@@ -6,7 +6,7 @@
   "Status":"00010010",
   "NextPageLinks": [
     {
-      "LinkName": "John: shid and fard and cum.",
+      "LinkName": "[S] Test",
       "LinkHref": 91
     }
   ]

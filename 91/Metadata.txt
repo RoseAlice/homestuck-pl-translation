@@ -1,0 +1,13 @@
+{
+  "Title": "[S] test",
+  "Images": [
+  ],
+  "HasCustomFlash":false,
+  "Status":"00000000",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: test",
+      "LinkHref": 92
+    }
+  ]
+}
