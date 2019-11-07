@@ -1,0 +1,13 @@
+{
+  "Title": "John: Załóż przebranie w celach ochronnych.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zacaptchaloguj foremkę od ciasta.",
+      "LinkHref": 93
+    }
+  ]
+}
