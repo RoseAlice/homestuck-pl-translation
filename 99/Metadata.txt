@@ -1,5 +1,5 @@
 {
-  "Title": "John: Zabierz betę.",
+  "Title": "John: Zabierz paczkę.",
   "Images": [
     "1.gif"
   ],
@@ -7,7 +7,7 @@
   "NextPageLinks": [
     {
       "LinkName": "John: Zabierz betę.",
-      "LinkHref": 101
+      "LinkHref": 100
     }
   ]
 }

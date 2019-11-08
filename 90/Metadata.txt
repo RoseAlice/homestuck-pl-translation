@@ -6,7 +6,7 @@
   "Status":"00010010",
   "NextPageLinks": [
     {
-      "LinkName": "[S] Test",
+      "LinkName": "John: Zgarnij paczkę i zwiewaj do swojego pokoju!",
       "LinkHref": 91
     }
   ]
