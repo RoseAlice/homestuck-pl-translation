@@ -1,13 +1,13 @@
 {
-  "Title": "[S] STARCIE!!",
+  "Title": "John: Zabierz betę.",
   "Images": [
+    "1.gif"
   ],
-  "HasCustomFlash":true,
-  "Status":"00010010",
+  "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "[S] Test",
-      "LinkHref": 91
+      "LinkName": "John: Zabierz betę.",
+      "LinkHref": 101
     }
   ]
 }
