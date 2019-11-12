@@ -1,13 +1,13 @@
 {
-  "Title": "John: Zabierz betę.",
+  "Title": "Homestuck.",
   "Images": [
     "1.gif"
   ],
   "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "John: Zabierz betę.",
-      "LinkHref": 101
+      "LinkName": "Wpisz imię.",
+      "LinkHref": 2
     }
   ]
 }
