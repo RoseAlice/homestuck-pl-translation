@@ -6,7 +6,7 @@
   "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "Wpisz imię.",
+      "LinkName": "Podaj imię.",
       "LinkHref": 2
     }
   ]
