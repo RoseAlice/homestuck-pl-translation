@@ -1,0 +1,15 @@
+{
+  "Title": "John: Usuń przedmioty z ciasta.",
+  "Images": [
+    "1.gif",
+    "2.gif",
+    "3.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zacaptchaloguj odzyskane przedmioty.",
+      "LinkHref": 107
+    }
+  ]
+}
