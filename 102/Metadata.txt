@@ -1,0 +1,13 @@
+{
+  "Title": "John: Zacaptchaloguj ciasto.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Połącz dwa ciasta by stworzyć jedno wielkie ciasto.",
+      "LinkHref": 103
+    }
+  ]
+}

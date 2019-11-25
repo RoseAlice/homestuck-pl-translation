@@ -6,7 +6,7 @@
   "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "John: Zabierz betę.",
+      "LinkName": "John: Wyjdź do kuchni.",
       "LinkHref": 101
     }
   ]
