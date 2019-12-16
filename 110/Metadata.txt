@@ -1,9 +1,9 @@
 {
-  "Title": "John: Otwórz Pesterchuma.",
+  "Title": "[S] John: Otwórz Pesterchuma.",
   "Images": [
-    "1.gif"
   ],
-  "Status":"00010001",
+  "HasCustomFlash": true,
+  "Status":"00000010",
   "NextPageLinks": [
     {
       "LinkName": "John: Todo",
