@@ -1,9 +1,11 @@
 <script src="/Images/Homestuck/110/script.js"></script><div id="playback" style="width:650px;height:450px;">
     <img src="/Images/Homestuck/110/110.gif" id="Pestervideo" />
-    <audio id="Pesterloop" loop>
-					<source src="/Images/Homestuck/90/Pesterloop.ogg" type="audio/ogg"/>
+    <audio id="Pesterloop">
+					<source src="/Images/Homestuck/110/Pesterloop.ogg" type="audio/ogg"/>
 	</audio><audio id="Pesteropen">
-					<source src="/Images/Homestuck/90/Pesteropen.ogg" type="audio/ogg"/>
+					<source src="/Images/Homestuck/110/Pesteropen.ogg" type="audio/ogg"/>
+	</audio><audio id="Pesterclose">
+					<source src="/Images/Homestuck/110/Pesterclose.ogg" type="audio/ogg"/>
 	</audio>
 	<div class="interact"></div><link rel="stylesheet" href="/Images/Homestuck/110/110.css" />
 </div>
