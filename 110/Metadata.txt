@@ -1,0 +1,13 @@
+{
+  "Title": "[S] John: Otwórz Pesterchuma.",
+  "Images": [
+  ],
+  "HasCustomFlash": true,
+  "Status":"00000010",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Otwórz przeglądarkę i wejdź na mspaintadventures.com.",
+      "LinkHref": 111
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "Status":"00010001",
   "NextPageLinks": [
     {
-      "LinkName": "John: Todo",
+      "LinkName": "John: Doceń plakat filmu 'Miłość na zamówienie'.",
       "LinkHref": 109
     }
   ]
