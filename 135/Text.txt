@@ -12,7 +12,7 @@ john|EB|ha ha, co?
 rose|TT|Powróćmy może do tematu gry, w którą zaraz zagramy?
 john|EB|ok, mam okienko na ekranie i pisze by wcisnąć enter.
 john|EB|mam coś jeszcze zrobić?
-rose|TT|Tylko i wyłącznie wystarczy wystarczy wciśnięcie klawisza Enter.
+rose|TT|Tylko i wyłącznie wystarczy wciśnięcie klawisza Enter.
 rose|TT|Aktualnie masz uruchomioną kopię kliencką gry. Do poprawnego działania potrzebne jest połączenie z kopią serwerową, która jest uruchomiona u mnie.
 rose|TT|W trakcie sesji, ze względu na typ mojej instancji, to na moje barki będzie spadała większa część odpowiedzialności za gładką grę.
 john|EB|dobra, to wciskam enter i zaczynamy!
