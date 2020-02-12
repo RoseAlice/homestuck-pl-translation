@@ -1,0 +1,14 @@
+{
+  "Title": "John: Zgarnij kawałki szkła.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "==>",
+      "LinkHref": 130
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Title": "John: Przeczytaj książkę 'Struktury Danych'.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zgarnij darmowy Moduł Uzyskania.",
+      "LinkHref": 117
+    }
+  ]
+}

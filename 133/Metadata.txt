@@ -1,0 +1,13 @@
+{
+  "Title": "John: Sprawdź status bety.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Spójrz na monitor.",
+      "LinkHref": 134
+    }
+  ]
+}

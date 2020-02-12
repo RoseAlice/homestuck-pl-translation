@@ -6,8 +6,8 @@
   "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "John: Poducz się struktur danych.",
-      "LinkHref": 115
+      "LinkName": "John: Sprawdź status bety.",
+      "LinkHref": 133
     }
   ]
 }

@@ -1,0 +1,19 @@
+
+|PESTERLOG|
+systemMessage|-- tentacleTherapist [rose|TT] zaczęła udręczać ectoBiologist [john|EB] o godzinie 17:08 --
+rose|TT|Gratulacje z okazji udanego zdobycia bety.
+rose|TT|Spróbuję się teraz połączyć z twoją instancją gry.
+john|EB|ok, wybacz że mnie nie było ale dostałem ZAJEBISTY prezent.
+rose|TT|Mówisz o króliku od TG?
+john|EB|dokładnie!
+rose|TT|Są źródła gdzie można znaleźć dokładniejsze info na temat tej perfidnej kreatury. Źródła które znam familiarnie.
+rose|TT|Tak, jej Homerycka legenda się dość miło zintegrowała w moją personalną mitologię.
+john|EB|ha ha, co?
+rose|TT|Powróćmy może do tematu gry, w którą zaraz zagramy?
+john|EB|ok, mam okienko na ekranie i pisze by wcisnąć enter.
+john|EB|mam coś jeszcze zrobić?
+rose|TT|Tylko i wyłącznie wystarczy wystarczy wciśnięcie klawisza Enter.
+rose|TT|Aktualnie masz uruchomioną kopię kliencką gry. Do poprawnego działania potrzebne jest połączenie z kopią serwerową, która jest uruchomiona u mnie.
+rose|TT|W trakcie sesji, ze względu na typ mojej instancji, to na moje barki będzie spadała większa część odpowiedzialności za gładką grę.
+john|EB|dobra, to wciskam enter i zaczynamy!
+

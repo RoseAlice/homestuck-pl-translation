@@ -1,0 +1,13 @@
+{
+  "Title": "John: Zacaptchaloguj dwa przypadkowe przedmioty.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zgarnij drugie ciasto.",
+      "LinkHref": 122
+    }
+  ]
+}
