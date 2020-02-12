@@ -1,0 +1,13 @@
+{
+  "Title": "John: Odłóż brzytwę.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00010001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zacaptchaloguj dwa przypadkowe przedmioty.",
+      "LinkHref": 121
+    }
+  ]
+}

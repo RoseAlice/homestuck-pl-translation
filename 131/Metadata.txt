@@ -1,0 +1,13 @@
+{
+  "Title": "John: Użyj brzytwy na czerwonej paczce.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00010001",
+  "NextPageLinks": [
+    {
+      "LinkName": "==>",
+      "LinkHref": 132
+    }
+  ]
+}

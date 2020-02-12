@@ -1,0 +1,13 @@
+{
+  "Title": "John: Jednak wróć do starego modułu.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Odłóż brzytwę.",
+      "LinkHref": 120
+    }
+  ]
+}

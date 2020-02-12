@@ -1,0 +1,14 @@
+{
+  "Title": "John: Zgarnij drugie ciasto.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Sylladeks. Więcej rzeczy. Dajesz.",
+      "LinkHref": 123
+    }
+  ]
+}

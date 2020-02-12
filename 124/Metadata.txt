@@ -1,0 +1,14 @@
+{
+  "Title": "John: Kajdanki też by się przydało wziąć...",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "==>",
+      "LinkHref": 125
+    }
+  ]
+}

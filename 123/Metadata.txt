@@ -1,0 +1,14 @@
+{
+  "Title": "John: Sylladeks. Więcej rzeczy. Dajesz.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Kajdanki też by się przydało wziąć...",
+      "LinkHref": 124
+    }
+  ]
+}
