@@ -1,13 +1,13 @@
 {
-  "Title": "[S] ==>",
+  "Title": "==>",
   "Images": [
   ],
   "HasCustomFlash":true,
   "Status":"00010010",
   "NextPageLinks": [
     {
-      "LinkName": "==>",
-      "LinkHref": 138
+      "LinkName": "TT: Zaznacz magikuferek.",
+      "LinkHref": 139
     }
   ]
 }

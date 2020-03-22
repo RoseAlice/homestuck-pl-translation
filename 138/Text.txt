@@ -1,0 +1,5 @@
+<script src="/Images/Homestuck/138/script.js"></script><div id="playback" style="width:650px;height:450px;">
+    <img src="/Images/Homestuck/138/Background.png" id="Pestervideo" />
+	<div class="interact"></div><link rel="stylesheet" href="/Images/Homestuck/138/138.css" />
+</div>
+[Przejedź nad ikonkami interfejsu. - AH]
