@@ -1,0 +1,13 @@
+{
+  "Title": "TT: Oddal widok.",
+  "Images": [
+  ],
+  "HasCustomFlash":true,
+  "Status":"00010010",
+  "NextPageLinks": [
+    {
+      "LinkName": "TT: Upuść kuferek.",
+      "LinkHref": 141
+    }
+  ]
+}

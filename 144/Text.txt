@@ -1,0 +1,8 @@
+|PESTERLOG|
+john|EB|hej, możesz mi zrobić przysługę i zgarnąć te rzeczy z podwórka co wyraźnie wyglądają jakby były wyrzucone z mojego okna?
+rose|TT|Spróbuję.
+john|EB|dzięki!
+rose|TT|Nie mam do nich dostępu.
+rose|TT|Zgaduję iż są poza zasięgiem obiektów którymi mogę manipulować.
+rose|TT|Musiałbyś się zbliżyć bardziej do nich.
+john|EB|:C
