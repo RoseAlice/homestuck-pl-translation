@@ -1,0 +1,13 @@
+{
+  "Title": "==>",
+  "Images": [
+    ""
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Ustań w rogu",
+      "LinkHref": 155
+    }
+  ]
+}

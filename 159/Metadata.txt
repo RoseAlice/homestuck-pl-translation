@@ -1,0 +1,13 @@
+{
+  "Title": "John: Zainstaluj Pesterchum.",
+  "Images": [
+    ""
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Wyjdź na Balkon.",
+      "LinkHref": 160
+    }
+  ]
+}

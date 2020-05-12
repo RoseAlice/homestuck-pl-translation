@@ -1,0 +1,13 @@
+{
+  "Title": "John: Ustań w rogu.",
+  "Images": [
+    ""
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "TT:Umieść Cruxtruder.",
+      "LinkHref": 156
+    }
+  ]
+}
