@@ -1,7 +1,7 @@
 {
-  "Title": "John: Zbadaj ALchemiter w ostrożny sposób.",
+  "Title": "John: Ostrożnie zbadaj Alchemiter.",
   "Images": [
-    ""
+    "1.gif"
   ],
   "Status":"00000001",
   "NextPageLinks": [

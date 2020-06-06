@@ -1,7 +1,7 @@
 {
-  "Title": "TT: Otwórz Pamięć Rudymentów.",
+  "Title": "TT: Otwórz Bilans Rudymentów.",
   "Images": [
-    ""
+    "1.gif"
   ],
   "Status":"00000001",
   "NextPageLinks": [

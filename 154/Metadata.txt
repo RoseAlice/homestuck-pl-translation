@@ -1,12 +1,13 @@
 {
   "Title": "==>",
   "Images": [
-    ""
+    "1.gif",
+    "2.gif"
   ],
   "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "John: Ustań w rogu",
+      "LinkName": "John: Stań w kącie.",
       "LinkHref": 155
     }
   ]

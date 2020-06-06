@@ -1,12 +1,12 @@
 {
-  "Title": "TT:Umieść Alchemiter.",
+  "Title": "TT: Rozmieść Alchemiter.",
   "Images": [
-    ""
+    "1.gif"
   ],
   "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "John: Weź PDA.",
+      "LinkName": "John: Zgarnij PDA.",
       "LinkHref": 158
     }
   ]

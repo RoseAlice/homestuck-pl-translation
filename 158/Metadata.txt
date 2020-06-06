@@ -1,12 +1,13 @@
 {
-  "Title": "John: Weź PDA.",
+  "Title": "John: Zgarnij PDA.",
   "Images": [
-    ""
+    "1.gif",
+    "2.gif"
   ],
   "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "John: Zainstaluj Pesterchum.",
+      "LinkName": "John: Zainstaluj Pesterchuma.",
       "LinkHref": 159
     }
   ]

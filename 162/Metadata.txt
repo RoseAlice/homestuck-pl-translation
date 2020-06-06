@@ -1,12 +1,13 @@
 {
   "Title": "John: Spójrz przez teleskop.",
   "Images": [
-    ""
+    "1.gif",
+    "2.gif"
   ],
   "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "TT:Złap za brudną toaletę.",
+      "LinkName": "TT: Spróbuj wyczyścić upapraną toaletę.",
       "LinkHref": 163
     }
   ]

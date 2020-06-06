@@ -1,12 +1,12 @@
 {
-  "Title": "TT:Umieść Cruxtruder.",
+  "Title": "TT: Rozmieść Krusztłaczarkę.",
   "Images": [
-    ""
+    "1.gif"
   ],
   "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "TT:Umieść Alchemiter.",
+      "LinkName": "TT: Rozmieść Alchemiter.",
       "LinkHref": 157
     }
   ]

@@ -1,12 +1,13 @@
 {
-  "Title": "John:Zbadaj.",
+  "Title": "John: Zbadaj o co biega.",
   "Images": [
-    ""
+    "1.gif",
+    "2.gif"
   ],
   "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "John:Wskocz w dziurę.",
+      "LinkName": "John: Zeskocz w dół.",
       "LinkHref": 166
     }
   ]
