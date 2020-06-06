@@ -1,0 +1,14 @@
+
+|PESTERLOG|
+rose|TT|Teraz skoro twój pokój jest większy, czemu nie przejdziesz do najdalszego rogu.
+rose|TT|To zwiększy zasięg mojego kursora, i będę mogła dosięgnąć przedmiotó.
+rose|TT|Które... wyrzuciłeś przez okno z jakiegoś powodu?
+john|EB|dobry pomysł!
+rose|TT|Co ty z resztą robiłeś przez całe popołudnie?
+john|EB|ugh, upierałem się z moim spierdolonym sylladeksem.
+john|EB|ale myślę że mam to już pod kontrolą.
+john|EB|jakiego modułu ty używasz?
+rose|TT|Lubię używać drzew.
+john|EB|oh nie, brzmi niekomfortowo.
+rose|TT|Nie jest byt praktyczne.
+rose|TT|Ale myślę że jest elegancki.

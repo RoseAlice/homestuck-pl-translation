@@ -1,0 +1,13 @@
+{
+  "Title": "John:Zbadaj.",
+  "Images": [
+    ""
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John:Wskocz w dziurę.",
+      "LinkHref": 166
+    }
+  ]
+}

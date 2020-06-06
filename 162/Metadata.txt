@@ -1,0 +1,13 @@
+{
+  "Title": "John: Spójrz przez teleskop.",
+  "Images": [
+    ""
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "TT:Złap za brudną toaletę.",
+      "LinkHref": 163
+    }
+  ]
+}

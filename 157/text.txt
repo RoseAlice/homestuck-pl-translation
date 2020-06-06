@@ -1,0 +1,13 @@
+
+|PESTERLOG|
+john|EB|czemu ziemia się trzęsie?
+john|EB|czy zrzucać więcej rzeczy w moim domu?
+rose|TT|Tak. Dwa wielkie Gizmo.
+john|EB|nieźle!
+john|EB|czym są te wszystkie duże przyrządy?
+rose|TT|Jeślibym miała zgadywać, one wyglądają na umożliwianie jakiegoś systemu dotyczącego alchemii na podstawie dziurkowanych kart.
+john|EB|huh.
+john|EB|do jakiego końca?
+john|EB|co powinniśmy zrobić w tej grze?
+rose|TT|To pozostaje do ujrzenia.
+rose|TT|Może powinieneś to zbadać?

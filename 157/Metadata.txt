@@ -1,0 +1,13 @@
+{
+  "Title": "TT:Umieść Alchemiter.",
+  "Images": [
+    ""
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Weź PDA.",
+      "LinkHref": 158
+    }
+  ]
+}
