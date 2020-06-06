@@ -1,13 +1,13 @@
 
 |PESTERLOG|
-john|EB|whoa, czemu dom się tak trzęsie?
+john|EB|whoa, czemu podłoga się tak trzęsie?
 john|EB|zrzucasz więcej rzeczy w moim domu?
 rose|TT|Tak. Dwie wielkie machiny.
 john|EB|nieźle!
 john|EB|ciekawe do czego służą.
-rose|TT|Jeślibym miała zgadywać, kolektywnie implementują system, możnaby powiedzieć, alchemii, opartej na kartach perforowanych.
+rose|TT|Jeśli miałabym zgadywać, kolektywnie implementują system, możnaby powiedzieć, alchemii, opartej na kartach perforowanych.
 john|EB|huh.
 john|EB|ciekawe po co?
 john|EB|jaki jest wogóle cel tej gry?
 rose|TT|Zapewne dowiemy się w przyszłości.
-rose|TT|Aktualnie sugerowałabym zbadanie maszyn.
+rose|TT|Sugerowałabym zbadanie maszyn.
