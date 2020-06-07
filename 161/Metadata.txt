@@ -1,0 +1,13 @@
+{
+  "Title": "John: Ostrożnie zbadaj Alchemiter.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Spójrz przez teleskop.",
+      "LinkHref": 162
+    }
+  ]
+}

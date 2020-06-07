@@ -1,0 +1,13 @@
+{
+  "Title": "==>.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zbadaj o co biega.",
+      "LinkHref": 165
+    }
+  ]
+}

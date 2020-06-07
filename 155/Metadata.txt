@@ -1,0 +1,13 @@
+{
+  "Title": "John: Stań w kącie.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "TT: Rozmieść Krusztłaczarkę.",
+      "LinkHref": 156
+    }
+  ]
+}

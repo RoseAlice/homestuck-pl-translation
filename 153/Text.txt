@@ -1,0 +1,19 @@
+
+|PESTERLOG|
+rose|TT|Wygląda na to że zwiększenie rozmiaru twojego pokoju kosztowało nas trochę "Rudymentu Twórczego", cokolwiek to ma znaczyć.
+rose|TT|Natomiast umieszczenie Totemokarki nie kosztowało nic.
+rose|TT|Wygląda na to że niektóre obiekty są gratisowe, zapewne by pomóc w zorganizowaniu gry.
+john|EB|wow, ok.
+john|EB|jak one działają?
+rose|TT|To już ty musisz się dowiedzieć.
+rose|TT|Jedyne co ja mogę robić aktualnie to najwyraźniej rozmieszczać i manipulować obiektami w twoim otoczeniu.
+john|EB|czy wiesz jak mogę też poruszać rzeczami? wygląda to bardzo fajnie!
+rose|TT|Niestety, jako klient, nie masz takiej możliwości. Potrzebujesz kopii serwerowej.
+rose|TT|Powinieneś otrzymać ją wraz z kopią kliencką, w oddzielnych kopertach. Ja mam je obie uruchomione na moim komputerze bez problemu.
+john|EB|co??
+rose|TT|Czy nie było drugiej koperty obok tej z oprogramowaniem klienckim?
+john|EB|nie!
+rose|TT|Jak zainstalujesz wersję serwerową, to otrzymasz możliwość manipulowania moim otoczeniem w taki sam sposób w jaki ja manipuluje twoim.
+rose|TT|Czy jesteś stuprocentowo pewny, że tej koperty nie było?
+john|EB|...kurczę.
+john|EB|chyba wiem gdzie jest.

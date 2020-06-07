@@ -1,0 +1,13 @@
+{
+  "Title": "John: Wyjdź na balkon.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Ostrożnie zbadaj Alchemiter.",
+      "LinkHref": 161
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Title": "TT: Rozmieść Alchemiter.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zgarnij PDA.",
+      "LinkHref": 158
+    }
+  ]
+}
