@@ -1,5 +1,6 @@
-Nie masz pojęcia jak się operuje tą maszynę. Nigdzie nie ma nawet żadnych widocznych metod kontroli.
+Nie masz pojęcia, jak operuje się tą maszyną. Nigdzie nie ma żadnych widocznych metod kontroli.
 
-Ewentualnie decydujesz się po prostu stanąć na tym.
+Finalnie decydujesz się po prostu na niej stanąć.
 
-...to nie jest wogóle ostrożne.
+...to nie jest w ogóle ostrożne.
+
