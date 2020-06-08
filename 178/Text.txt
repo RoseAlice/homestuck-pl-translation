@@ -1,0 +1,13 @@
+
+|PESTERLOG|
+john|EB|co to jest?
+john|EB|i co to za odliczanie?
+rose|TT|Poczekaj, spojrzę na GameFAQs by zobaczyć co należy zrobić dalej.
+john|EB|ok.
+rose|TT|Hm.
+rose|TT|Wszystkie poradniki są ekstremalnie krótkie.
+rose|TT|Żaden nie wykracza zbytnio w dal poza punktem w którym jesteśmy.
+john|EB|dziwne.
+john|EB|w sumie to jest nowa gra, pewnie jeszcze nie doszli dalej.
+rose|TT|Prawda.
+rose|TT|Aktualnie musimy wydobyć z tej maszyny trochę "Krusztytu".

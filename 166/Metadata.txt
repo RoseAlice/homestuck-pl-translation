@@ -1,0 +1,13 @@
+{
+  "Title": "John: Zeskocz w dół.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zgarnij młot kowalski oraz kartę.",
+      "LinkHref": 167
+    }
+  ]
+}

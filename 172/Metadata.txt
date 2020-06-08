@@ -1,0 +1,13 @@
+{
+  "Title": "John: Spróbuj przekręcić pokrętło na Krusztłaczarce.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "TT: Połóż wannę na wjeździe.",
+      "LinkHref": 173
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Title": "John: Odpowiedz kumplowi.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Obczaj Krusztłaczarkę.",
+      "LinkHref": 170
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+
+|PESTERLOG|
+systemMessage|-- gardenGnostic [jade|GG] zaczęła udręczać ectoBiologist [john|EB] o godzinie 17:25 --
+
+jade|GG|john dostałeś moją paczkę??
+john|EB|hej!
+john|EB|nie, jeszcze nie.
+jade|GG|kurczę! na pewno? była w zielonym pudełeczku...
+john|EB|ah!
+john|EB|w takim razie już przyszła, tylko jest aktualnie w aucie mojego taty a on jeszcze nie powrócił ze sklepu.
+john|EB|wkrótce powinien wrócić.
+jade|GG|świetnie!!! co porabiasz?
+john|EB|gram aktualnie z TT w sburb.
+john|EB|ona mi robi absolutny chaos w domu.
+jade|GG|lol!
+jade|GG|co to sburb??
+john|EB|to ta popularna gra co niedawno wyszła.
+john|EB|jest raczej ok, narazie nic ciekawego ale zobaczymy.
+jade|GG|łoł co to było?????
+john|EB|huh?
+jade|GG|usłyszałam bardzo głośny dźwięk!!
+jade|GG|brzmiało jak taka eksplozja!!!!
+john|EB|wow, serio?
+jade|GG|wyjdę na zewnątrz zobaczyć co się stało....
+john|EB|dobrze, ale bądź ostrożna, ok?
+jade|GG|jasne! :)
+
+systemMessage|-- gardenGnostic [jade|GG] przestała udręczać ectoBiologist [john|EB] o godzinie 17:28  --
