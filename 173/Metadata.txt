@@ -1,0 +1,13 @@
+{
+  "Title": "TT: Połóż wannę na wjeździe.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Ochrzań TT.",
+      "LinkHref": 174
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Title": "John: Uderz Krusztłaczarkę młotem kowalskim.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "TT: Pomóż Johnowi.",
+      "LinkHref": 176
+    }
+  ]
+}
