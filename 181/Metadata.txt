@@ -1,0 +1,14 @@
+{
+  "Title": "Rose: Rozmieść kartę perforowaną.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zgarnij kartę.",
+      "LinkHref": 182
+    }
+  ]
+}
