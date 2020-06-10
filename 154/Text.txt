@@ -6,9 +6,9 @@ rose|TT|Które... leżą rozwalone na podwórku.
 john|EB|dobry pomysł!
 rose|TT|Co ty robiłeś przez całe popołudnie?
 john|EB|ugh, pieprzyłem się z moim głupim sylladeksem.
-john|EB|ale myślę że już ogarnąłem jak działa.
+john|EB|ale myślę, że już ogarnąłem jak działa.
 john|EB|w ogóle, jakiego modusu używasz?
 rose|TT|Aktualnie używam drzewek.
 john|EB|o nie, brzmi skomplikowanie.
 rose|TT|Definitywnie nie są zbyt praktyczne.
-rose|TT|Natomiast, według mnie mają w sobie jakąś elegancję.
+rose|TT|Natomiast, według mnie, mają w sobie jakąś elegancję.
