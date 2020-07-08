@@ -1,13 +1,13 @@
 {
-  "Title": "==>",
+  "Title": "TT: Wrzuć okaleczoną lalkę do Pierwradnika.",
   "Images": [
     "1.gif"
   ],
   "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "John: Jeszcze raz spróbuj przekręcić pokrętło.",
-      "LinkHref": 179
+      "LinkName": "[S] ==>",
+      "LinkHref": 186
     }
   ]
 }

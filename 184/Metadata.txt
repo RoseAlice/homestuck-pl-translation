@@ -6,8 +6,8 @@
   "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "John: Jeszcze raz spróbuj przekręcić pokrętło.",
-      "LinkHref": 179
+      "LinkName": "TT: Wrzuć okaleczoną lalkę do Pierwradnika.",
+      "LinkHref": 185
     }
   ]
 }
