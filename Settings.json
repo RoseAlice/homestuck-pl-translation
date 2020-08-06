@@ -1,0 +1,9 @@
+{
+  "AllowedLogPrefixes":[
+    "PESTERLOG",
+    "DIALOGLOG",
+    "SPRITELOG"
+  ],
+  "SystemMessagePrefix":"systemMessage",
+  "Style":"Homestuck"
+}
