@@ -1,0 +1,13 @@
+{
+  "Title": "TT: Wejdź w Ateneum.",
+  "Images": [
+    "1.gif"
+  ],
+  "Status":"00000001",
+  "NextPageLinks": [
+    {
+      "LinkName": "John: Zacapthaloguj teleskop.",
+      "LinkHref": 191
+    }
+  ]
+}
