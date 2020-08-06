@@ -1,13 +1,13 @@
 {
-  "Title": "TT: Wrzuć okaleczoną lalkę do Pierwradnika.",
+  "Title": "John: Zmień moduł i użyj teleskopu by spojrzeć na niebo.",
   "Images": [
     "1.gif"
   ],
   "Status":"00000001",
   "NextPageLinks": [
     {
-      "LinkName": "[S] ==>",
-      "LinkHref": 186
+      "LinkName": "==>",
+      "LinkHref": 195
     }
   ]
 }
