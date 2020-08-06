@@ -8,7 +8,7 @@
   "NextPageLinks": [
     {
       "LinkName": "John: Połóż Krusztyt na dziwnych oznaczeniach na Alchemiterze.",
-      "LinkHref": 192
+      "LinkHref": 191
     }
   ]
 }
