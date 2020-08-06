@@ -7,7 +7,7 @@
   "NextPageLinks": [
     {
       "LinkName": "John: Zacapthaloguj teleskop.",
-      "LinkHref": 191
+      "LinkHref": 190
     }
   ]
 }
