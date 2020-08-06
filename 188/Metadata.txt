@@ -7,7 +7,7 @@
   "NextPageLinks": [
     {
       "LinkName": "TT: Wejdź w Ateneum.",
-      "LinkHref": 190
+      "LinkHref": 189
     }
   ]
 }
