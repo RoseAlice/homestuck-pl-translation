@@ -1,0 +1,19 @@
+{
+  "Version": 2,
+  "Title": "[S] STARCIE!!",
+  "Images": [],
+  "Date": 1571690038,
+  "Asset": {
+    "Type": "Video",
+    "Translated": true,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

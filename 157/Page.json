@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "TT: Rozmieść Alchemiter.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1591489854,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Przechodzisz na sam koniec książki, gdzie w plastikowej kopercie zawarty jest darmowy MODUŁ UZYSKANIA.
+
+Zamiast kierować się logiką STOSU ten moduł działa trochę jak inna struktura przechowywania danych - KOLEJKA.

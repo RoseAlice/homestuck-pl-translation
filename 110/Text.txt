@@ -1,0 +1,75 @@
+<script src="/Images/Homestuck/110/script.js"></script><div id="playback" style="width:650px;height:450px;">
+    <img src="/Images/Homestuck/110/110.gif" id="Pestervideo" />
+    <audio id="Pesterloop">
+					<source src="/Images/Homestuck/110/Pesterloop.ogg" type="audio/ogg"/>
+	</audio><audio id="Pesteropen">
+					<source src="/Images/Homestuck/110/Pesteropen.ogg" type="audio/ogg"/>
+	</audio><audio id="Pesterclose">
+					<source src="/Images/Homestuck/110/Pesterclose.ogg" type="audio/ogg"/>
+	</audio>
+	<div class="interact"></div><link rel="stylesheet" href="/Images/Homestuck/110/110.css" />
+</div>
+
+|PESTERLOG|
+systemMessage|-- gardenGnostic [jade|GG] zaczęła udręczać ectoBiologist [john|EB] o godzinie 16:34 --
+jade|GG|heeeeeeej john wszystkiego najlepszego!!!!!! <3
+jade|GG|halo????????
+jade|GG|okay napiszę później jak już będziesz!!!!! :D
+systemMessage|-- gardenGnostic [jade|GG] przestała udręczać ectoBiologist [john|EB] o godzinie 16:56 --
+
+systemMessage|-- turntechGodhead [dave|TG] zaczął udręczać ectoBiologist [john|EB] o godzinie 16:40 --
+dave|TG|hej gg sie do ciebie dobija masz jakis specjalny dzien dzis
+dave|TG|wygrales cos
+dave|TG|wyladowales w szpitalu
+dave|TG|zonglowales ciastami i guinness sie do ciebie dobija
+systemMessage|-- turntechGodhead [dave|TG] jest poza klawiaturą --
+john|EB|odkryłem kometę która uderzy w ziemię. została nazwana moim imieniem.
+john|EB|przez to stałem się sławny i każdy szuka okazji na rozmowę ze mną.
+dave|TG|morda stop
+dave|TG|nie chce slyszec o twoich glupich filmach
+dave|TG|ani o nawiazaniach do nich
+dave|TG|twoja ohydna milosc ku maccohanawowi starczy mi nie potrzebuje wiecej gowna
+john|EB|mcconaugheyowi.
+dave|TG|brzmi jak dzwiek ktory by kon wydal
+dave|TG|czyli jak najglupsza rzecz na ziemi
+dave|TG|byc moze druga najglupsza tuz za zdjeciami tego klauna ktore masz w domu
+john|EB|te zdjęcia są mojego taty.
+dave|TG|chodzilo mi o cage'a
+john|EB|co?! nie obrażaj cage'a! on jest wspaniałym aktorem!
+dave|TG|ha ha co za lamus
+dave|TG|to nie jest nawet ironicznie ty naprawde go lubisz
+dave|TG|hahaha
+john|EB|czasami robię rzeczy w celach ironicznych.
+john|EB|np. prezent który otrzymałeś odemnie na urodziny.
+dave|TG|cos ty one sa wykurwiste
+john|EB|co? są do dupy. to miał być żart. IRONICZNY żart.
+john|EB|zaraz...
+john|EB|czy ty je teraz nosisz?
+dave|TG|nosze je ironicznie
+dave|TG|bo sa zajebiste
+dave|TG|to ze sa ironiczne sprawia ze sa zajebiste
+dave|TG|vice versa itp
+dave|TG|notujesz to?? bierz dlugopis i nakurwiaj bo teraz nauczam jak byc zajebistym
+john|EB|ty wiesz że ben stiller kiedyś je nosił na swej dziwnie wychudzonej twarzy, prawda?
+dave|TG|fuj rzeczywiscie
+dave|TG|coz trudno
+dave|TG|w kazdym razie
+dave|TG|dobrales sie do poczty
+john|EB|tak.
+dave|TG|czy jest tam jakas paczka
+john|EB|tak, jest duża czerwona paczka.
+dave|TG|fajnie by bylo jakbys ja otworzyl
+john|EB|z chęcią, ale aktualnie jest pod betą w sylladeksie a chce ją pierw uruchomić.
+dave|TG|o kurna beta przyszla
+john|EB|dokładnie! chcesz zagrać?
+dave|TG|nie cos ty
+john|EB|aww, dlaczego nie?
+dave|TG|brzmi nudziarsko w CHUJ moze TT z toba zagra ciagle do mnie pisze z prosbami
+john|EB|gdzie poszła?
+dave|TG|ma chyba problemy z internetem
+dave|TG|wkrotce powinna powrocic
+dave|TG|a i jezusie chrystusie co cyca mietusie czy ty dalej uzywasz stosu
+dave|TG|ja pierdziele
+dave|TG|poducz sie struktur danych, NAKURWIAJ wiedze o nich do swojej glowy jakbys wpieprzal wegiel do pieca
+dave|TG|a nastepnie uzyj swojej wiedzy i wybierz lepszy modul uzyskania do kurwy nedzy
+john|EB|dobrze, niech będzie.

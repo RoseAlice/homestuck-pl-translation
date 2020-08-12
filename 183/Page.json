@@ -1,0 +1,22 @@
+{
+  "Version": 2,
+  "Title": "John: Zacapthaloguj fikuśne arlekiny.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "Date": 1591824727,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

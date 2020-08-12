@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "John: Opisz gry na twoim stojaku z płytami CD.",
+  "Images": [
+    "custom"
+  ],
+  "Date": 1561168404,
+  "Asset": {
+    "Type": "Video",
+    "Translated": false,
+    "Perfect": true
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

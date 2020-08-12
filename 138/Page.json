@@ -1,0 +1,19 @@
+{
+  "Version": 2,
+  "Title": "==>",
+  "Images": [],
+  "Date": 1584891952,
+  "Asset": {
+    "Type": "Video",
+    "Translated": true,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

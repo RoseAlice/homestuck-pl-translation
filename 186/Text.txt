@@ -1,0 +1,6 @@
+<script src="/Images/Homestuck/186/script.js"></script><div id="playback" style="width:650px;height:450px;"><video id="Video" width="650" height="450" >
+		Twoja przeglądarka nie wspiera HTML5 Video :(
+		Aby obejrzeć tą animacje, zaktualizuj przeglądarkę.
+	</video><audio id="Audio"></audio>
+	<div class="interact"></div><link rel="stylesheet" href="/Images/Homestuck/186/186.css" />
+</div>

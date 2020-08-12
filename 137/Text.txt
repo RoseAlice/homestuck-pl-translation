@@ -1,0 +1,8 @@
+<script src="/Images/Homestuck/137/script.js"></script><div id="playback" style="width:650px;height:450px;"><video id="Video" width="650" height="450" >
+		Twoja przeglądarka nie wspiera HTML5 Video :(
+		Aby obejrzeć tą animacje, zaktualizuj przeglądarkę.
+	</video><audio id="audio"></audio>
+	<div class="interact"></div><link rel="stylesheet" href="/Images/Homestuck/137/137.css" />
+</div>
+
+(Notka: wysoka jakość może nie działać na wszystkich przeglądarkach! Jeżeli niska jakość nie działa, prosimy zreportować to na serwerze Discordowym!)

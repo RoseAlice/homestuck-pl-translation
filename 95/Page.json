@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "John: Zabierz ciasto!",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1573220672,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

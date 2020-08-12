@@ -1,0 +1,22 @@
+{
+  "Version": 2,
+  "Title": "John: Sprawdź czy tata nie zostawił poczty w aucie.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "Date": 1570392581,
+  "Asset": {
+    "Type": "Image",
+    "Translated": true,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

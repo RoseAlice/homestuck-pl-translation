@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "John: Zaaplikuj moduł do Sylladeksu.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1581508831,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
