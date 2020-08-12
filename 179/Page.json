@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "John: Jeszcze raz spróbuj przekręcić pokrętło.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1591824727,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

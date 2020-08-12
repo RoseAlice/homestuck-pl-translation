@@ -1,0 +1,23 @@
+{
+  "Version": 2,
+  "Title": "John: Usuń przedmioty z ciasta.",
+  "Images": [
+    "1.gif",
+    "2.gif",
+    "3.gif"
+  ],
+  "Date": 1574690991,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

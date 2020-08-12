@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "John: Opisz plakat filmu 'Con Air'.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1561168404,
+  "Asset": {
+    "Type": "Image",
+    "Translated": true,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

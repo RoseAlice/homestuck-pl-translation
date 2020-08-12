@@ -1,0 +1,22 @@
+{
+  "Version": 2,
+  "Title": "John: Zgarnij drugie ciasto.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "Date": 1581508831,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

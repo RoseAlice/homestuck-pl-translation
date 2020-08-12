@@ -1,0 +1,22 @@
+{
+  "Version": 2,
+  "Title": "John: Zgarnij młot kowalski oraz kartę.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "Date": 1591640115,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

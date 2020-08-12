@@ -1,0 +1,19 @@
+{
+  "Version": 2,
+  "Title": "[S] John: Otwórz Pesterchuma.",
+  "Images": [],
+  "Date": 1576844327,
+  "Asset": {
+    "Type": "Video",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
