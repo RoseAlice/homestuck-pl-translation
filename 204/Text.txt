@@ -1,0 +1,75 @@
+|PESTERLOG|
+rose|TT|Próbuję naprawić łazienkę, ale obawiam się że nie starczy nam Rudymentu Twórczego.
+john|EB|słuchaj w dupie mam łazienkę, widziałem meteor który za chwilę trafi w mój dom!!!
+rose|TT|Rozumiem.
+rose|TT|Podejrzewasz, że może on ma jakiś związek z naszą grą?
+john|EB|nie wiem może! co mam robić???
+rose|TT|Według mnie jest to dosyć prawdopodobne.
+rose|TT|Te tragedie słowa samozwańcze "poradnikami", one implikują istnienie pewnego zagrożenia. 
+rose|TT|Kiepska struktura zdań schodzi na zupełnie okropny poziom, a każde słowo jest pisane z coraz większym pośpiechem.
+rose|TT|Dopóki się, oczywiście, nagle nie kończą.
+rose|TT|W sumie, jeżeli autorzy również mieli podobne problemy jak my, to ich dedykacja do pisania poradników musi być naprawdę ogromna.
+rose|TT|...nawet jeżeli produkty końcowe nie wywołują nic prócz desperacji w czytelnikach.
+john|EB|WOW. ALE CIEKAWE.
+john|EB|CO MAM ROBIĆ??????
+rose|TT|Skoro meteor jest najprawdopodobniej konstruktem growym, to sądzę, iż należy postępować z nią dalej.
+rose|TT|Spróbuj użyć karty perforowanej w Totemokarce.
+rose|TT|U mnie pisze że istnieje taka możliwość, ale nic poza tym.
+john|EB|ok, spróbuję tak zrobić.
+rose|TT|Szczerze, mam dosyć czytania tych "poradników".
+rose|TT|Każda nowa linijka powoduje u mnie kolejne poziomy zażenowania i wręcz wkurwienia.
+rose|TT|Nielegalnym winno być pisanie tak bezczelnych tekstów.
+rose|TT|Chyba spróbuję napisać swój własny poradnik.
+rose|TT|Oczywiście po tym, jak rozwiążemy problem meteoru.
+
+systemMessage|-- turntechGodhead [dave|TG] zaczął udręczać ectoBiologist [john|EB] o godzinie 17:34 --
+
+dave|TG|hej uslyszalem ze dostales pudlo
+dave|TG|mam nadzieje ze doceniasz moja determinacje w ogarnieciu go dla ciebie
+dave|TG|taka meska i bohaterska wrecz determinacje ktora kazdy lipny protagonista dupnych filmow posiada
+dave|TG|ten krolik moze rownie dobrze byc palka w maratonie chujowych skurwieli ktorzy umieja tak grac filmy jak ja potrafie wzerac grunt z podworka moich wscibskich sasiadow
+dave|TG|i ich sportowe trawsko ktore kupili za zbyt duzo dolarow z jakiegos powodu
+dave|TG|nie wiem czemu ludzie kupuja taka trawe
+dave|TG|moze mysla ze ich durny syn co potrafi tylko grac w rugby na srednim poziomie stanie sie super dobry od feromonow w trawie czy co
+dave|TG|jebane nfl bedzie wydzwanialo do nich by zapisac tego chujka na super bowl czy cos
+dave|TG|hej gdzie jestes
+john|EB|hej, słuchaj, królik był ZAJEBISTY, ale nie mogę rozmawiać teraz.
+john|EB|gram w sburba z TT i mi robi rozpierdol w domu.
+dave|TG|koles mowilem ci by unikac tej gry
+dave|TG|przy okazji radzilbym ci unikac w przyszlosci kaprysnych lafirynd i ich zlosliwych docinek
+john|EB|słuchaj, jeszcze leci we mnie jakiś meteor i nawet o tym nie żartuje!!!
+john|EB|jakaś asteroida czy kometa.
+dave|TG|o kurcze
+dave|TG|jaka jest jego wielkosc
+john|EB|jest... duży?
+john|EB|nie wiem dokładnie.
+john|EB|w każdym razie, muszę lecieć, jeżeli nie wybuchnę to napiszę, cześć!!!
+dave|TG|myslisz ze jest rozmiaru takiego teksasu np
+dave|TG|czy moze bardziej cos w stylu rhode island
+dave|TG|zawsze lubia nam wciskac w filmach takie porownania jakbysmy wiedzieli dokladnie ile ma teksas lub rhode island
+dave|TG|ale sa na chuj bo zawsze i tak reakcja jest tylko
+dave|TG|WOW ALE TO JEST DUZE
+dave|TG|np panie prezydencie
+dave|TG|co tam
+dave|TG|leci w nas wykurwisty meteor
+dave|TG|jak duzy jest
+dave|TG|jest rozmiaru teksasu panie prezydencie
+dave|TG|i takie LO KURWA
+dave|TG|ew panie prezydencie ten meteor jest rozmiaru nowego jorku
+dave|TG|LO KURWA
+dave|TG|panie prezydencie obawiam sie ze ten meteor jest rozmiaru chuja twojej starej
+dave|TG|O RETY
+dave|TG|panie prezydencie zna moze pan prezydent taka planete jak jowisz
+dave|TG|hmmm chodzi ci o tego duzego skurwiela
+dave|TG|tak dokladnie o niego
+dave|TG|ok co z nim
+dave|TG|ten meteor jest tak duzy
+dave|TG|rozumiem to jest dosc duzy meteor w takim razie
+dave|TG|zgadza sie panie prezydencie
+dave|TG|ej mam pytanie
+dave|TG|jakie
+dave|TG|czy to jest jowisz
+dave|TG|tak panie prezydencie, jowisz doslownie wykurwil ze swojej orbity by wpieprzyc ziemi
+dave|TG|LO KURWA
+dave|TG|dobra cya
+

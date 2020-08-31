@@ -1,0 +1,22 @@
+{
+  "Version": 2,
+  "Title": "John: Odpowiedz kumplom.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1598889252,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
+
