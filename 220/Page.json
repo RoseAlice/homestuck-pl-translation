@@ -1,0 +1,22 @@
+{
+  "Version": 2,
+  "Title": "Rose: Podnieś dziennik. Przytul się do niego szepcąc, 'Mój skarbie...'",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1602790870,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": true
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
+

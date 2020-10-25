@@ -1,0 +1,10 @@
+<script src="/Images/Homestuck/222/script.js"></script><div id="playback" style="width:650px;height:450px;"><video id="Video" width="650" height="450" >
+		Twoja przeglądarka nie wspiera HTML5 Video :(
+		Aby obejrzeć tą animacje, zaktualizuj przeglądarkę.
+	</video><audio id="audio"></audio>
+	<div class="interact"></div><link rel="stylesheet" href="/Images/Homestuck/222/222.css" />
+</div>
+
+Podczas gdy twój przyjaciel jest w tarapatach, decydujesz się stracić około 40 sekund na grę.
+
+Świetne zarządzanie czasem!!
