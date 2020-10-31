@@ -1,0 +1,3 @@
+Twój laptop wykrywa wiele SYGNAŁÓW WI-FI pochodzących z laboratorium. Jeden jest, wygodnie dla ciebie, niezabezpieczony.
+
+Łączysz się z nim, po czym twoja sesja z Johnem zostaje przywrócona.

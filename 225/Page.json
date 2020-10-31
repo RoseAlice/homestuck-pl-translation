@@ -1,0 +1,23 @@
+{
+  "Version": 2,
+  "Title": "Rose: Wyjrzyj za okno.",
+  "Images": [
+    "1.gif",
+    "2.gif"
+  ],
+  "Date": 1604170495,
+  "Asset": {
+    "Type": "Image",
+    "Translated": true,
+    "Perfect": true
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
+
