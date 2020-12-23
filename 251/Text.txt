@@ -1,0 +1,8 @@
+<script src="/Images/Homestuck/251/script.js"></script><div id="playback" style="width:650px;height:450px;"><video id="Video" width="650" height="450" >
+		Twoja przeglądarka nie wspiera HTML5 Video :(
+		Aby obejrzeć tą animacje, zaktualizuj przeglądarkę.
+	</video><audio id="audio"></audio>
+	<div class="interact"></div><link rel="stylesheet" href="/Images/Homestuck/251/251.css" />
+</div>
+
+Pierwradnik DZIELI SIĘ na trzy części. Jedna startuje w dół, przez chmury. Druga leci wprost w górę. Trzecia zostaje.
