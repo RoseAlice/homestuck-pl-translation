@@ -5,10 +5,10 @@ rose|TT|Rozumiem.
 rose|TT|Podejrzewasz, że może on ma jakiś związek z naszą grą?
 john|EB|nie wiem może! co mam robić???
 rose|TT|Według mnie jest to dosyć prawdopodobne.
-rose|TT|Te tragedie słowa samozwańcze "poradnikami", one implikują istnienie pewnego zagrożenia. 
+rose|TT|Te tragedie słowa samozwańcze "poradnikami" implikują istnienie pewnego zagrożenia. 
 rose|TT|Kiepska struktura zdań schodzi na zupełnie okropny poziom, a każde słowo jest pisane z coraz większym pośpiechem.
 rose|TT|Dopóki się, oczywiście, nagle nie kończą.
-rose|TT|W sumie, jeżeli autorzy również mieli podobne problemy jak my, to ich dedykacja do pisania poradników musi być naprawdę ogromna.
+rose|TT|W sumie, jeżeli autorzy również mieli takie problemy, jak my, to ich dedykacja do pisania poradników musi być naprawdę ogromna.
 rose|TT|...nawet jeżeli produkty końcowe nie wywołują nic prócz desperacji w czytelnikach.
 john|EB|WOW. ALE CIEKAWE.
 john|EB|CO MAM ROBIĆ??????

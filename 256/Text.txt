@@ -1,0 +1,43 @@
+|PESTERLOG|
+rose|TT|John?
+rose|TT|Jesteś tam?
+systemMessage|-- tentacleTherapist [rose|TT] jest poza klawiaturą --
+john|EB|hej, jestem!
+john|EB|i nadal żyję. chyba.
+rose|TT|Wiem. Widzę.
+rose|TT|Czemu nie odpowiedziałeś wcześniej? Mogłeś to zrobić przed kręceniem się po domu.
+john|EB|oj, wybacz, martwię się po prostu o swojego tatę.
+john|EB|wiesz może, gdzie mógł pójść?
+rose|TT|Rozumiem.
+rose|TT|O ile nie wiem gdzie poszedł, to sądzę, iż na pewno tu wróci.
+rose|TT|Radziłabym się o niego nie martwić. Mamy ważniejsze rzeczy na głowie.
+rose|TT|Takie, jak wykombinowanie, gdzie Ciebie gra przeniosła.
+john|EB|nie wiem, w miejsce pełne chmur i niczego na to wygląda.
+john|EB|ciekawe, co się stało z moim sąsiedztwem?
+rose|TT|Praktycznie znikło z mapy.
+rose|TT|Od kilku dni cała Ziemia jest najwyraźniej bombardowana meteorytami.
+rose|TT|Śledzę na boku wiadomości, jest o tej sprawie bardzo głośno.
+rose|TT|Najświeższe artykuły piszą o zniszczeniach w Twoim miejscu zamieszkania.
+rose|TT|Co jest ciekawe, jak narazie to Twój meteoryt jest największym zidentyfikowanym.
+john|EB|o kurde.
+john|EB|czy to znaczy, że naszym celem jest uratować ziemię?
+rose|TT|Być może.
+john|EB|dobra, tak więc chodźmy wygrać tą grę!
+rose|TT|Na początku radziłabym odzyskać PDA.
+rose|TT|Pozwoli nam na łatwiejszą komunikację.
+rose|TT|Jeżeli uda mi się ogarnąć jak zamienić te głupie klocki z powrotem w rudyment, to powinno nam pozwolić wybudować ścieżkę do PDA.
+rose|TT|Dzięki niej, będziesz mógł podejść wystarczająco blisko, by było one w zasięgu do przeniesienia.
+john|EB|jasne! w takim razie pójdę na balkon.
+rose|TT|Dobrze, w takim razie do zobaczenia jak będziesz już trzymał PDA.
+john|EB|hej, rose! jeszcze jedna rzecz.
+rose|TT|Hm?
+john|EB|bowiem...
+john|EB|ok, głupio mi się o to dopytywać, ale nie zażyczyłaś mi wszystkiego najlepszego!
+rose|TT|Wybacz John, nie chciałam składać życzeń bez 'podparcia' w postaci mojego prezentu w Twoich rękach.
+rose|TT|Bałam się, że wywołam wrażenie, jakbym uważała że same życzenia by starczyły na tą okazję.
+rose|TT|Niestety, jego wykonanie się znacznie opóźniło.
+rose|TT|Stąd, pozwól iż teraz złożę życzenia:
+rose|TT|Wszystkiego najlepszego, John.
+john|EB|dziękuje rose, ale na przyszłość nie przejmuj się prezentem! nic się nie stanie jeżeli przyjdzie spóźniony!
+rose|TT|Zapamiętam.
+

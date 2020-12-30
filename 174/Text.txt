@@ -8,7 +8,7 @@ rose|TT|Poszukałabym silniejszego sygnału w innej części domu, ale nie chcia
 rose|TT|Już raz dziś musiałam przebrnąć przez jej docinki i alkoholizm.
 john|EB|haha, w pełni to rozumiem.
 rose|TT|Niewątpliwie. Wypieki, arlekiny, ciągłe bombardowanie miłością i wsparciem.
-rose|TT|Z pewnością fakt, iż nie doniosłam jeszcze o tym do służb rodzicielskich, sprawia, że jestem współkonspiratorką jeżeli chodzi o twoją mizerną sytuację domową.
+rose|TT|Z pewnością fakt, iż nie doniosłam jeszcze o tym do służb rodzicielskich, sprawia, że jestem współkonspiratorką jeżeli chodzi o Twoją mizerną sytuację domową.
 john|EB|dokładnie!
 john|EB|w sumie co jakbyś wyszła na zewnątrz?
 john|EB|może dałoby radę złapać wifi od sąsiada czy coś.
@@ -17,5 +17,5 @@ rose|TT|W dodatku pada.
 rose|TT|I jest ciemno.
 john|EB|już jest ciemno?
 rose|TT|Tak, na wschodzie Stanów słońce już wystarczająco z nami przebalowało.
-rose|TT|Aktualnie, wędruje przez strefy czasowe na zachód.
-john|EB|haha, ok, czaję.
+rose|TT|Aktualnie wędruje ono przez strefy czasowe na zachód.
+john|EB|haha ok. czaję.

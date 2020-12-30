@@ -1,10 +1,10 @@
 
 |PESTERLOG|
-rose|TT|Teraz, skoro twój pokój jest większy, czy mógłbyś umiejscowić się w kącie?
-rose|TT|To zwiększy zasięg mojego kursora, przez co będę mogła dosięgnąć twoich przedmiotów.
+rose|TT|Teraz, skoro Twój pokój jest większy, czy mógłbyś umiejscowić się w kącie?
+rose|TT|To zwiększy zasięg mojego kursora, przez co będę mogła dosięgnąć Twoich przedmiotów.
 rose|TT|Które... leżą rozwalone na podwórku.
 john|EB|dobry pomysł!
-rose|TT|Co ty robiłeś przez całe popołudnie?
+rose|TT|Co Ty robiłeś przez całe popołudnie?
 john|EB|ugh, pieprzyłem się z moim głupim sylladeksem.
 john|EB|ale myślę, że już ogarnąłem jak działa.
 john|EB|w ogóle, jakiego modusu używasz?
