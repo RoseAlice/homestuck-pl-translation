@@ -1,0 +1,23 @@
+{
+  "Version": 2,
+  "Title": "==>",
+  "Images": [
+    "1.gif",
+    "2.gif",
+    "3.gif"
+  ],
+  "Date": 1609437999,
+  "Asset": {
+    "Type": "Image",
+    "Translated": true,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

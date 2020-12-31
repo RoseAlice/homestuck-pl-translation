@@ -1,0 +1,13 @@
+|PESTERLOG|
+john|EB|ej, zaraz zaraz!
+rose|TT|Co?
+john|EB|zamierzasz użyć pudełka od ciasta???
+rose|TT|Tak.
+john|EB|co za durny pomysł!
+john|EB|to jest chyba nawet głupsze niż głupoty które TG papla czasami!
+john|EB|proszę rose, musi być jakaś lepsza opcja!
+rose|TT|Nie sądze, by wybór przedmiotu miał jakiś większy wpływ na tok rzeczy.
+rose|TT|Poza tym pamiętaj, moja bateria jest bliska rozładowania.
+rose|TT|Wolę to ogarnąć jak najszybciej by przejść do innych kwestii.
+john|EB|eh, no ok.
+john|EB|NIECH BĘDZIE.
