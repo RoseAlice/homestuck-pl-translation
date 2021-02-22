@@ -5,4 +5,4 @@ rose|TT|Myślę, że mogę to naprawić.
 rose|TT|Daj mi tylko trochę miejsca i czasu.
 rose|TT|Mówiąc o czasie, może byłby to dobry moment, aby spojrzeć na Krusztłaczarkę?
 john|EB|na co?
-rose|TT|Na rzecz, którą położyłam w twoim salonie.
+rose|TT|Na rzecz, którą położyłam w Twoim salonie.

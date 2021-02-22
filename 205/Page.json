@@ -1,0 +1,22 @@
+{
+  "Version": 2,
+  "Title": "John: Użyj karty perforowanej na totemokarce.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1600633014,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
+

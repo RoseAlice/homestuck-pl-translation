@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "ZAMIAST PUDŁA UŻYJ TEJ SMACZNEJ ROŚLINY.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1609437999,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

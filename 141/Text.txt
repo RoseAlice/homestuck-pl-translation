@@ -3,6 +3,6 @@
 john|EB|hej, gdzie zabrałaś mój magikuferek?
 john|EB|czy jest on teraz na dachu??
 rose|TT|Niestety tak.
-rose|TT|Wybacz, próbuję się jeszcze przyzwyczaić do dostępnych metod kontroli nad twoim środowiskiem.
+rose|TT|Wybacz, próbuję się jeszcze przyzwyczaić do dostępnych metod kontroli nad Twoim środowiskiem.
 john|EB|:(
 rose|TT|Obiecuję, iż w przyszłości będę bardziej ostrożna.

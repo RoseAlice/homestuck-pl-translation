@@ -1,0 +1,22 @@
+{
+  "Version": 2,
+  "Title": "[S] Rose: Zagraj coś na skrzypcach.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1603664255,
+  "Asset": {
+    "Type": "Video",
+    "Translated": true,
+    "Perfect": true
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
+

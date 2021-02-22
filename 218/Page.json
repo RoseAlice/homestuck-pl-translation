@@ -1,0 +1,22 @@
+{
+  "Version": 2,
+  "Title": "Rose: Zgarnij ramiona z purpurowego pudełka.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1603664255,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": true
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
+

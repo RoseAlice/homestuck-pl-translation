@@ -5,19 +5,19 @@ john|EB|piszę do ciebie z pda mojego taty.
 rose|TT|Z dokładnie tego, które wyrzuciłeś na podwórko?
 john|EB|nie, posłuchaj.
 john|EB|ono mi wyskoczyło z sylladeksu jak przestraszona łasica.
-rose|TT|Po pierwsze, co ty w ogóle z nim robiłeś?
+rose|TT|Po pierwsze, co Ty w ogóle z nim robiłeś?
 rose|TT|Nie wyczuwam tu troski o posiadłości innych.
-rose|TT|Czy tak oto wyjawia się tłumiona przez ciebie frustracja na ojca?
+rose|TT|Czy tak oto wyjawia się tłumiona przez Ciebie frustracja na ojca?
 john|EB|co? nie!
 john|EB|to wszystko były wypadki.
 john|EB|proszę, zabierz swoje psychiatryczne paplanie gdzieś indziej, paniusiu!
 rose|TT|Twoja łazienka jest w katastrofalnym stanie.
-rose|TT|Czy to też twoja wina?
+rose|TT|Czy to też Twoja wina?
 john|EB|dobra, nie. kończymy z tym wścibstwem.
 john|EB|koniec na dziś, finito.
 rose|TT|W toalecie jest ciasto.
 john|EB|tak. w toalecie jest ciasto. gratulacje za spostrzegawczość.
-rose|TT|Aż kusi mnie posprzątanie tego za ciebie.
+rose|TT|Aż kusi mnie posprzątanie tego za Ciebie.
 john|EB|ok, jeśli to zaspokoi twój dziwny kompleks ocd, to proszę bardzo.
 rose|TT|Mój kompleks zaburzeń obsesyjno-kompulsywnych?
 rose|TT|Czy zaburzenia mogą być również kompleksem?

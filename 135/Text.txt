@@ -2,7 +2,7 @@
 |PESTERLOG|
 systemMessage|-- tentacleTherapist [rose|TT] zaczęła udręczać ectoBiologist [john|EB] o godzinie 17:08 --
 rose|TT|Gratulacje z okazji udanego zdobycia bety.
-rose|TT|Spróbuję się teraz połączyć z twoją instancją gry.
+rose|TT|Spróbuję się teraz połączyć z Twoją instancją gry.
 john|EB|ok, wybacz że mnie nie było ale dostałem ZAJEBISTY prezent.
 rose|TT|Mówisz o króliku od TG?
 john|EB|dokładnie!

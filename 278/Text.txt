@@ -1,0 +1,6 @@
+|PESTERLOG|
+john|EB|o, i teraz to jest świetny wybór!
+john|EB|tylko czy on to zaakceptuje?
+rose|TT|Hm.
+rose|TT|Spróbuj odwrócić jego uwagę.
+rose|TT|Ja się podkradnę.

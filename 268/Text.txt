@@ -1,0 +1,15 @@
+|PESTERLOG|
+rose|TT|John.
+rose|TT|Wszystko okej?
+rose|TT|Zachowujesz się bardzo abnormalnie.
+john|EB|czuje się raczej ok.
+john|EB|od kiedy się tu dostałem mam jednak jakieś dziwne myśli.
+john|EB|taki jakby cichy głos chyba? nie wiem jak to dokładnie określić.
+rose|TT|Hm, może są to wczesne symptomy stresu pourazowego?
+john|EB|nie wiem, może?
+rose|TT|Jeżeli zdołasz się pozbierać do kupy, to teraz chciałabym się skupić na Pierwradniku.
+rose|TT|Musimy zobaczyć, czy da się przeprowadzić wtchnięcie poziomu drugiego.
+rose|TT|Najlepiej jak najprędzej. Bateria w moim laptopie powoli się kończy.
+john|EB|ok, w takim razie wrócę do środka.
+
+

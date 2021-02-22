@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "NIE, NIE RÓB TEGO. ZAMIAST TEGO ZESKOCZ DO AUTA.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1609365965,
+  "Asset": {
+    "Type": "Image",
+    "Translated": true,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

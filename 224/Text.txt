@@ -1,0 +1,3 @@
+Zgarniasz torebkę z NARZĘDZIAMI DO DZIERGANIA NA DRUTACH. Moduł SYLLADEKSU automatycznie przyporządkowywuje ją jako LEWY LIŚĆ, według prostego przyrównania alfabetycznego angielskich nazw tych przedmiotów.
+
+K(NITTING BAG) < V(IOLIN)

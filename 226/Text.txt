@@ -1,0 +1,9 @@
+Zgarniasz LAPTOPA i zbierasz się do podróży przez dom.
+
+L(APTOP) < V(IOLIN).
+L(APTOP) > K(NITTING BAG).
+
+W wyniku tego ZACAPTCHALOGOWANIA drzewo jest niezbalansowane. W związku z tym SYLLADEKS automatycznie rebalansuje TALIĘ. Teraz karta z LAPTOPEM jest korzeniem, podczas gdy inne karty są LIŚĆMI.
+
+K(NITTING BAG) < L(APTOP).
+L(APTOP) < V(IOLIN).

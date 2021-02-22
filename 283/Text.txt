@@ -1,0 +1,19 @@
+|PESTERLOG|
+john|EB|o kurde, gdzie on zwiał?
+rose|TT|Nie wiem. Nie mogę go znaleźć.
+rose|TT|Trudno. Skoncentrujmy się na innych kwestiach.
+rose|TT|Radziłabym teraz spróbować odzyskać kopię serwerową z auta Twojego taty.
+rose|TT|Wtedy będę mogła dołączyć do Ciebie i uciec przed pożarem.
+john|EB|zaraz, jest pożar w twoim pobliżu???
+rose|TT|Za niedługo wbije mi do domu.
+john|EB|o kurde, to lepiej szybko działajmy. spróbuj przenieść krusztłaczarkę może.
+rose|TT|Hm.
+rose|TT|Niestety, nie mogę tego dokonać.
+rose|TT|Potrzebujemy ogromnej ilości rudymentu do tego. Dużo ponad nasz maksymalny limit wręcz.
+john|EB|psiakrew!
+john|EB|a ile go wogóle mamy?
+rose|TT|Zero.
+john|EB|hmmm.
+john|EB|zastanawiałem się w sumie wcześniej, czy by tam nie zeskoczyć z tej kładki co wybudowałaś, ale to by było chyba ciut niebezpieczne.
+rose|TT|W sumie udaj się na balkon. Mam pewnien pomysł.
+rose|TT|Który, szybko dodam, jest bardziej bezpieczny od prostego zeskoczenia.

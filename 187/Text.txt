@@ -1,6 +1,6 @@
 |PESTERLOG|
 john|EB|wciąż nie rozumiem co to coś papla.
-rose|TT|Spokojnie, podobno to był dopiero "pierwszy poziom wtchnięcia".
+rose|TT|Spokojnie, podobno to był dopiero "pierwszy poziom" wtchnięcia.
 rose|TT|Według poradników istnieje jeszcze drugi poziom.
 rose|TT|...który równie dobrze może tylko zwiększyć ezoteryczność językową tej istoty.
 john|EB|dobra, trudno, mamy odliczanie na karku.
