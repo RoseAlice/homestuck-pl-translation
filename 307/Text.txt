@@ -1,0 +1,18 @@
+<script src="/JS/ruffle.js"></script><script>window.RufflePlayer = window.RufflePlayer || {};
+    window.onload = (event) => {
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+        const container = document.getElementById("ruffleCanvas");
+        container.appendChild(player);
+        player.load("/Images/Homestuck/307/307.swf");
+console.log("fuck");
+    };</script><div id="playback" style="width:650px;height:450px;">
+
+	<div class="interact"><div id="ruffleCanvas" width="650" height="450"></div></div>
+</div>
+
+Ciekawe czy kiedyś przestanie padać. Zaczęło się to na początku kwietnia, i chyba zapomniało dlaczego pada. Nawet nie wie że trzeba gasić ogień. Może gdzieś jakiś bóg trzyma struny między niebem a ziemią, bojąc się zagrać symfonii niemożliwej do zagrania. I tak czeka, i czeka, ciągle przekładając podniesienie pałeczki konduktora.
+
+Nienawidzisz tego miesiąca.
+
+"Kwiecień jest najbezduszniejszym z miesięcy, tworząc kwiaty z zmarłej ziemi, mieszając pamięć i chęci, łaskocząc proste korzenie kolorowym deszczem." -Amerykańska legenda sportowa, Charles Barkley.

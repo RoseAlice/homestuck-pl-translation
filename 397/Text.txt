@@ -1,0 +1,6 @@
+</script><script src="/Images/Homestuck/397/App.js"></script><div id="playback" style="width:650px;height:450px;">
+
+	<div class="interact"><canvas id="glCanvas" width="650" height="450"></canvas></div><link rel="stylesheet" href="/Images/Homestuck/397/1.css" />
+</div>
+
+== FLASH PART 2 ==

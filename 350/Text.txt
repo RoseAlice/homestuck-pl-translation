@@ -1,0 +1,3 @@
+KOPERTY Z BETĄ powiewają przy otwartym oknie ze względu na wianie wiatraka.
+
+To ustawienie jest dosyć niebezpieczne. Jeżeli bety wypadłyby z okna to byłby głupi sposób by je stracić.

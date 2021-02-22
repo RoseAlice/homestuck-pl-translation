@@ -1,0 +1,10 @@
+<script src="/Images/Homestuck/338/App.js"></script><div id="playback" style="width:650px;height:450px;">
+
+	<div class="interact"><canvas id="glCanvas" width="650" height="450"></canvas></div><link rel="stylesheet" href="/Images/Homestuck/338/1.css" />
+</div>
+
+Lewe pokrętło: Głośność akurat wybranego bitu.
+
+Prawe pokrętło: Całkowita głośność.
+
+Można przechowywać kombinacje bitów pod przyciskami F1, F2 itp.

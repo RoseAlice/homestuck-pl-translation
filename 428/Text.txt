@@ -1,0 +1,6 @@
+NANNASPRITE: John, jesteś takim dobrym chłopcem! Teraz na pewno wiem, że ci się uda. 
+JOHN: dzięki babciu. 
+NANNASPRITE: Jesteś dobrym chłopcem, a dobrzy chłopcy dostają nagrody! 
+JOHN: hura! 
+NANNASPRITE: Idę upiec ci ciasteczka! Za godzinę lub dwie spodziewaj się nich w kuchni. 
+JOHN: ...

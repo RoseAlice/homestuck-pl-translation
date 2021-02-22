@@ -1,0 +1,14 @@
+CAPTHALOGUJESZ PUDEŁKO za pomocą TABLICY MIESZAJĄCEJ.
+
+SPOSÓB MIESZANIA twojego SYLLADEKSU bierze angielską nazwę rzeczy, dodaje litery za pomocą formuły SAMOGŁOSKA - 1, SPÓŁGŁOSKA - 2, a następnie dzieli przez ilość wszystkich KART CAPTHALOGOWYCH. Przedmiot jest następnie CAPTHALOGOWANY do KARTY której numer jest równy reszcie z dzielenia. W przypadku PUDEŁKA:
+
+PUDEŁKO
+
+B O X
+2 1 2
+
+2 + 1 + 2 = 5
+
+5 % 10 = 5
+
+PUDEŁKO trafia na KARTĘ numer 5.
