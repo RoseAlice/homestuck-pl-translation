@@ -1,4 +1,4 @@
-<script src="/JS/ruffle.js"></script><script>window.RufflePlayer = window.RufflePlayer || {};
+<!-- <script src="/JS/ruffle.js"></script><script>window.RufflePlayer = window.RufflePlayer || {};
     window.onload = (event) => {
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
@@ -9,10 +9,18 @@ console.log("fuck");
     };</script><div id="playback" style="width:650px;height:450px;">
 
 	<div class="interact"><div id="ruffleCanvas" width="650" height="450"></div></div>
+</div> -->
+<script src="/Images/Homestuck/307/script.js"></script><div id="playback" style="width:650px;height:450px;"><video id="Video" width="650" height="450" >
+		Twoja przeglądarka nie wspiera HTML5 Video :(
+		Aby obejrzeć tą animacje, zaktualizuj przeglądarkę.
+	</video><audio id="audio" loop></audio>
+	<div class="interact"></div><link rel="stylesheet" href="/Images/Homestuck/307/307.css" />
 </div>
 
-Ciekawe czy kiedyś przestanie padać. Zaczęło się to na początku kwietnia, i chyba zapomniało dlaczego pada. Nawet nie wie że trzeba gasić ogień. Może gdzieś jakiś bóg trzyma struny między niebem a ziemią, bojąc się zagrać symfonii niemożliwej do zagrania. I tak czeka, i czeka, ciągle przekładając podniesienie pałeczki konduktora.
+Ciekawe, czy kiedyś przestanie padać.
 
-Nienawidzisz tego miesiąca.
+Deszcz ten zaczął się na samiutkim początku kwietnia. Od tego momentu nieustannie bombarduje grunt swymi kroplami, niewątpliwie tracąc jakikolwiek rozum, jaki zjawiska pogodowe mogą posiadać. Zapomniał już nawet o takiej funkcji wody jak gaszenie ognia. Być może gdzieś jakiś bóg trzyma struny deszczu między niebem a ziemią, bojąc się zagrać symfonii uznawanej za niemożliwą do odegrania. I tak czeka, i czeka, ciągle przesuwając w czasie inauguracyjne podniesienie pałeczki konduktora.
 
-"Kwiecień jest najbezduszniejszym z miesięcy, tworząc kwiaty z zmarłej ziemi, mieszając pamięć i chęci, łaskocząc proste korzenie kolorowym deszczem." -Amerykańska legenda sportowa, Charles Barkley.
+Tak bardzo nienawidzisz tego miesiąca.
+
+"Kwiecień jest najsroższym z miesięcy - wyzwala lilie z martwej ziemi, miesza pamięć i chęci, łaskocze prostackie korzenie wielobarwnym deszczem." - Charles Barkley, amerykańska legenda sportowa.
