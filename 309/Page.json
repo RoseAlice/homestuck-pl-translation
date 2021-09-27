@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "Zaraz, co??",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1610726792,
+  "Asset": {
+    "Type": "Image",
+    "Translated": true,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
