@@ -1,13 +1,13 @@
-CAPTHALOGUJESZ PUDEŁKO za pomocą TABLICY MIESZAJĄCEJ.
+CAPTCHALOGUJESZ PUDEŁKO z pomocą twojego modusu uzyskania, TABLICY MIESZAJĄCEJ.
 
-SPOSÓB MIESZANIA twojego SYLLADEKSU bierze angielską nazwę rzeczy, dodaje litery za pomocą formuły SAMOGŁOSKA - 1, SPÓŁGŁOSKA - 2, a następnie dzieli przez ilość wszystkich KART CAPTHALOGOWYCH. Przedmiot jest następnie CAPTHALOGOWANY do KARTY której numer jest równy reszcie z dzielenia. W przypadku PUDEŁKA:
+FUNKCJA MIESZAJĄCA twojego SYLLADEKSU bierze angielską nazwę rzeczy, sumuje ze sobą litery za pomocą formuły SAMOGŁOSKA - 1, SPÓŁGŁOSKA - 2, a następnie dzieli z resztą daną sumę poprzez ilość wszystkich KART CAPTCHALOGOWYCH. Przedmiot jest następnie ZACAPTCHALOGOWANY do KARTY której numer jest równy reszcie z dzielenia. W przypadku PUDEŁKA:
 
 PUDEŁKO
 
-B O X
-2 1 2
+<span style="davemodus-consonant">B</span> <span style="davemodus-vowel">O</span> <span style="davemodus-consonant">X</span>
+<span style="davemodus-consonant">2</span> <span style="davemodus-vowel">1</span> <span style="davemodus-consonant">2</span>
 
-2 + 1 + 2 = 5
+<span style="davemodus-consonant">2</span> + <span style="davemodus-vowel">1</span> + <span style="davemodus-consonant">2</span> = 5
 
 5 % 10 = 5
 
