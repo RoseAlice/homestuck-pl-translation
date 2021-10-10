@@ -4,10 +4,10 @@ FUNKCJA MIESZAJĄCA twojego SYLLADEKSU bierze angielską nazwę rzeczy, sumuje z
 
 PUDEŁKO
 
-<span style="davemodus-consonant">B</span> <span style="davemodus-vowel">O</span> <span style="davemodus-consonant">X</span>
-<span style="davemodus-consonant">2</span> <span style="davemodus-vowel">1</span> <span style="davemodus-consonant">2</span>
+<span class="davemodus-consonant">B</span> <span class="davemodus-vowel">O</span> <span class="davemodus-consonant">X</span>
+<span class="davemodus-consonant">2</span> <span class="davemodus-vowel">1</span> <span class="davemodus-consonant">2</span>
 
-<span style="davemodus-consonant">2</span> + <span style="davemodus-vowel">1</span> + <span style="davemodus-consonant">2</span> = 5
+<span class="davemodus-consonant">2</span> + <span class="davemodus-vowel">1</span> + <span class="davemodus-consonant">2</span> = 5
 
 5 % 10 = 5
 
