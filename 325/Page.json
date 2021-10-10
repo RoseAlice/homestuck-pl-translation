@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "Dave: Odwiedź strony internetowe adekwatne do twych zainteresowań.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1633900020,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
