@@ -1,43 +1,49 @@
-TT: W niektórych kulturach ciągłe odmawianie gry z dziewczyną byłoby znakiem pogardy w stosunku do niej.
-TT: Tego lub niezaprzeczalnego gejostwa.
-TG: nie nie nie
-TG: popatrz
-TG: jestem zajety ok
-TG: mam duzo do jedzenia na moim talerzu
-TG: jestem celebryta co nie?
-TT: Wiem.
-TT: Czasami się zastanawiam jak jadasz w restauracjach.
-TT: Pewnie trudno jest nie być poznanym gdy ludzie ciągle szepczą "To ten koleś który ma tego bloga."
-TG: masz racje
-TG: wszyscy sie mnie poklaniaja
-TG: nie moge normalnie chodzic po chodniku bez potykania sie o torsy tlumu
-TT: Nawigacja w mieście jest już i tak trudna bez nieskończonej ilości tyłków wypiętych w niebo.
-TT: Może nauka parkouru by pomogła w przechodzeniu przez twoją okolicę?
-TG: tak!
-TG: to znaczy kurcze
-TG: naprzyklad jest jakis maly skurczybyk
-TG: sierota czy cos nie wiem
-TG: twarz na chodniku
-TG: mowie koles czy ty nasluchujesz czy bizony nie biegna czy cos?
-TG: on sie na mnie patrzy
-TT: Ciężko jest nosić koronę.
-TG: no
-TG: nie kopanie olivera twista w twarz czy cos to moj dar dla swiata
-TT: Niesamowita hojność!
-TG: to oczywiscie tylko sposrod innych rzeczy
-TG: ja ciagle kurwa daje i daje
-TT: Tak, twoje pudełko hojności jest nieskończone, nawet gdy twoja cierpliwość się kończy.
-TG: zaraz zaraz
-TG: ty mnie chcesz przekupic bym zagral w twoja glupia gre
-TT: Bezpodstawne oskarżenie!
-TG: ja ci mowie
-TG: egbert CALY CZAS GADA o tej grze
-TG: zagra z toba i jeszcze bedzie tym podniecony
-TT: Dobrze o tym wiem.
-TT: Nie mogę jednak przyspieszyć dostawy jego gry.
-TG: tak tak wiem
-TG: porozmawiam z nim o tym
-TG: i zrobmy tam
-TG: zagram tylko wtedy gdy twoje zycie bedzie zalezalo od tego gowna
-TG: czy sie tym zadowolisz
-TT: Chętniej niż sam uważasz.
+|PESTERLOG|
+rose|TT|Czy wiesz, iż na świecie istnieją kultury uważające brak pogardy dla zaproszeń damy do wspólnej gry za symbol prostackiego dysrespektu?
+rose|TT|Ewentualnie nieopętanego homoseksualizmu.
+dave|TG|o nie
+dave|TG|nie teraz
+dave|TG|jestem zajety ok?
+dave|TG|wiesz przecie ze gruba ryba jest ze mnie
+rose|TT|Niewątpliwie.
+rose|TT|Czasami zastanawiam się, jak ci się udaje spożywać posiłki w spokoju w restauracjach.
+rose|TT|Trudne musi być samoopanowanie gdy co pięć sekund słyszysz "spójrz, to ten koleś co prowadzi bloga na Internecie!" wokół siebie.
+dave|TG|serio
+dave|TG|wrecz modla sie do mnie na lewo i prawo
+dave|TG|nie moge nawet normalnie po chodniku lazic bez potykania sie o torsy tlumu
+rose|TT|Nawigacja terenu zurbanizowanego jest i tak wystarczająco trudna bez toru przeszkód złożonego z masy oddańców wypinających dupska w kierunku nieba.
+rose|TT|Być może poprawnie zaadapowany do danej sytuacji parkour mógłby ulżyć twoim problemom?
+dave|TG|no i kurwa mnie rozumiesz!
+dave|TG|jest jakis maly smarkacz rozwalony przedemna
+dave|TG|sierota jakas czy cos
+dave|TG|wpycha swoja facjate w ziemie
+dave|TG|ja takie koles
+dave|TG|boisz sie ze jakies bizony nakurwiaja z dala czy cos?
+dave|TG|a on patrzy sie odwaznie na mnie, caluje mojego buta i spierdala jakby zostawil odpalona kuchenke w sierocincu czy gdzie tam mieszka
+rose|TT|Taki jest los ciążących koronę.
+dave|TG|dokladnie
+dave|TG|codziennie udaje mi sie obdarzyc zycie nie zasadzaniu przypadkowego kopa oliwerowi twistowi prosto w twarz
+rose|TT|Najlitościwsza dobroć!
+dave|TG|oczywiscie to nie jest jedyne dobre co robie
+dave|TG|bysmy tu stali kilkadziesiat lat gdybym chcial wypisac wszystko co daje swiatu
+dave|TG|tyle tego jest
+rose|TT|Dokładnie. Nigdy nie odważy się skończyć tobie twoje pudło bycia zajebistym.
+rose|TT|Tyle dajesz, a mimo wszystko tak dużo jeszcze masz do dania.
+dave|TG|oj tak tyle jeszcze rzeczy czeka ze
+dave|TG|zaraz
+dave|TG|ty probujesz mnie po prostu wpedzic w zagranie z toba w ta durna gre co nie
+rose|TT|Bezpodstawne oskarżenie!
+dave|TG|mowie ci
+dave|TG|egbert normalnie sie SLINI na temat tej gry
+dave|TG|zagraj po prostu z nim
+rose|TT|Dobrze o tym wiem.
+rose|TT|A teraz wytłumacz to listonoszowi.
+dave|TG|no tak tak spozniaja sie z tym
+dave|TG|bede z nim w kontakcie
+dave|TG|zrobmy tak
+dave|TG|jezeli nie wiem jakies meteory zaczna napierdalac w ciebie czy ogolem apokalipsa do ciebie przyjdzie ala te posrane filmy egbertowskie czy cos
+dave|TG|to z toba zagram
+dave|TG|pasuje ci to
+rose|TT|I to jak.
+rose|TT|Nawet zapokoiło to mój niezmierny marazm związany ze śmiercią rycerskich maner.
+dave|TG|ok cool
