@@ -1,0 +1,23 @@
+{
+  "Version": 2,
+  "Title": "SS: Wyjdź z kryjówki. Wdroż w życie skomplikowane podstępki.",
+  "Images": [
+    "1.gif",
+    "2.gif",
+    "3.gif"
+  ],
+  "Date": 1635014003,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

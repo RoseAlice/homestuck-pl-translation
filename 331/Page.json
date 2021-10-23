@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "Dave: Przeskocz do przodu z jakieś 100 stron.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1635014003,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
