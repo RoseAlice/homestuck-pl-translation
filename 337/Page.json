@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "Dave: Puść jakieś zajebiste bity.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1636016952, 
+  "Asset": {
+    "Type": "Image",
+    "Translated": true,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
