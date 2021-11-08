@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "Dave: Poszukaj czegoś mniej mokrego.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1636367215,
+  "Asset": {
+    "Type": "Image",
+    "Translated": true,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
