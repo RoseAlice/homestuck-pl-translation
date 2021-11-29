@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "PRZECZYTAJ KSIĄŻKĘ. UWAŻAJ NA PRZECIWNIKÓW.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1638192459,
+  "Asset": {
+    "Type": "Image",
+    "Translated": false,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}
