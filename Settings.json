@@ -5,5 +5,7 @@
     "SPRITELOG"
   ],
   "SystemMessagePrefix":"systemMessage",
-  "Style":"Homestuck"
+  "Style":"Homestuck",
+  "ImageRepo": "./Private/ImageStore/hs2",
+  "Name":"Homestuck PL"
 }
