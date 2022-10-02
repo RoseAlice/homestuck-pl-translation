@@ -1,0 +1,5 @@
+<script src="/Images/Homestuck/388/script.js"></script>
+<div id="playback" style="width:650px;height:450px;">
+<div class="interact"></div>
+<link rel="stylesheet" href="/Images/Homestuck/388/388.css" />
+</div>
