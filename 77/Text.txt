@@ -1,7 +1,5 @@
-<script src="/Images/Homestuck/GenericVideo/script.js"></script><div id="playback"><video id="video" width="650" height="450" >
-		<source src="/Images/Homestuck/77/video.webm" type="video/webm" />
-                <audio id="audio">
-                        <source src="/Images/Homestuck/77/audio.ogg" type="audio/ogg" />
+<script src="/Images/Homestuck/GenericVideo/script.js"></script><div id="playback"><video id="video" width="650" height="450" filesrc="/Images/Homestuck/77/video.webm">
+                <audio filesrc="/Images/Homestuck/77/audio.ogg" id="audio">
                 </audio>
 		Twoja przeglądarka nie wspiera HTML5 Video :(
 		Aby obejrzeć tą animacje, zaktualizuj przeglądarkę.
