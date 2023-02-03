@@ -6,4 +6,5 @@
 	</video>
 	<div class="interact"></div>
 </div>
-(Strony z oznaczeniem [S] zawierają dźwięk)
+<br />
+<p>(Strony z oznaczeniem [S] zawierają dźwięk)</p>

@@ -6,4 +6,4 @@
 	<div class="interact"></div>
 </div>
 <br/>
-Włożyłeś niezliczone roboczogodziny w ten asortyment tytułów wysokiej jakości.
+<p>Włożyłeś niezliczone roboczogodziny w ten asortyment tytułów wysokiej jakości.</p>

@@ -4,5 +4,6 @@
 	</video><audio id="audio"></audio>
 	<div class="interact"></div><link rel="stylesheet" href="/Images/Homestuck/251/251.css" />
 </div>
+<br />
 
-Pierwradnik DZIELI SIĘ na trzy części. Jedna startuje w dół, przez chmury. Druga leci wprost w górę. Trzecia zostaje.
+<p>Pierwradnik DZIELI SIĘ na trzy części. Jedna startuje w dół, przez chmury. Druga leci wprost w górę. Trzecia zostaje.</p>

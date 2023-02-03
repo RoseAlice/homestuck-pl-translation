@@ -4,7 +4,9 @@
 	</video><audio id="audio"></audio>
 	<div class="interact"></div><link rel="stylesheet" href="/Images/Homestuck/222/222.css" />
 </div>
+<br />
 
-Podczas gdy twój przyjaciel jest w tarapatach, decydujesz się stracić około 40 sekund na grę.
+<p>Podczas gdy twój przyjaciel jest w tarapatach, decydujesz się zmarnotrawić około 40 sekund na grę.</p>
 
-Świetne zarządzanie czasem!!
+<br />
+<p>Świetne zarządzanie czasem!!</p>

@@ -9,6 +9,7 @@
 	</audio>
 	<div class="interact"></div><link rel="stylesheet" href="/Images/Homestuck/110/110.css" />
 </div>
+<br />
 
 |PESTERLOG|
 systemMessage|-- gardenGnostic [jade|GG] zaczęła udręczać ectoBiologist [john|EB] o godzinie 16:34 --

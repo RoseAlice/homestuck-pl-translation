@@ -3,8 +3,11 @@
 	<div class="interact"><canvas id="glCanvas" width="650" height="450"></canvas></div><link rel="stylesheet" href="/Images/Homestuck/338/1.css" />
 </div>
 
-Lewe pokrętło: Głośność akurat wybranego bitu.
+<br />
+<p>Lewe pokrętło: Głośność akurat wybranego bitu.</p>
 
-Prawe pokrętło: Całkowita głośność.
+<br />
+<p>Prawe pokrętło: Całkowita głośność.</p>
 
-Można przechowywać kombinacje bitów pod przyciskami F1, F2 itp.
+<br />
+<p>Można przechowywać kombinacje bitów pod przyciskami F1, F2 itp.</p>

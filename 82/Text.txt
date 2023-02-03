@@ -6,12 +6,13 @@
 	</video>
 	<div class="interact"></div>
 </div>
-Ulice są opustoszałe. Jedynie wiatr się nimi przechadza, co jakiś czas odwiedzawszy również i twoją pustą skrzynkę. Słyszysz pewną cichą, dobrze ci znaną nutkę. Jest ona dziełem Pustki, i zapowiada cały koncert jej autorstwa.
-
-Dzisiaj zaczynasz swój trzynasty rok życia, i tak jak z dwunastoma poprzednimi czujesz pewien brak. Gra której teraz tak bardzo wyszukujesz nie jest jego wypełnieniem - jest ona tylko i wyłącznie kolejnym zagraniem błazna zarządzającego twoim życiem. On nigdy nie rozbawia, jedyne co robi to pogłębia wyczuwalną pustkę, i ewentualnie się z niej śmieje. Jego zagadkowe działania unikają wytłumaczeń i stawiają opór rozwiązaniom. To są najbardziej diaboliczne zagadki na świecie.
-
-"Nieobecność gasi małe uczucia, lecz rozpala wielkie, niczym wiatr, co gasi świeczkę, ale wznieca pożar." - Walt Whitman
-
-Tak, jesteś pewien że Walt Whitman tak powiedział. Na 100%.
-
-Czujesz, że to będzie długi dzień.
+<br />
+<p>Ulice są opustoszałe. Jedynie wiatr się nimi przechadza, co jakiś czas odwiedzawszy również i twoją pustą skrzynkę. Słyszysz pewną cichą, dobrze ci znaną nutkę. Jest ona dziełem Pustki, i zapowiada cały koncert jej autorstwa.</p>
+<br />
+<p>Dzisiaj zaczynasz swój trzynasty rok życia, i tak jak z dwunastoma poprzednimi czujesz pewien brak. Gra której teraz tak bardzo wyszukujesz nie jest jego wypełnieniem - jest ona tylko i wyłącznie kolejnym zagraniem błazna zarządzającego twoim życiem. On nigdy nie rozbawia, jedyne co robi to pogłębia wyczuwalną pustkę, i ewentualnie się z niej śmieje. Jego zagadkowe działania unikają wytłumaczeń i stawiają opór rozwiązaniom. To są najbardziej diaboliczne zagadki na świecie.</p>
+<br />
+<p>"Nieobecność gasi małe uczucia, lecz rozpala wielkie, niczym wiatr, co gasi świeczkę, ale wznieca pożar." - Walt Whitman</p>
+<br />
+<p>Tak, jesteś pewien że Walt Whitman tak powiedział. Na 100%.</p>
+<br />
+<p>Czujesz, że to będzie długi dzień.</p>

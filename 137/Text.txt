@@ -4,5 +4,6 @@
 	</video><audio id="audio"></audio>
 	<div class="interact"></div><link rel="stylesheet" href="/Images/Homestuck/137/137.css" />
 </div>
+<br />
 
-(Notka: wysoka jakość może nie działać na wszystkich przeglądarkach! Jeżeli niska jakość nie działa, prosimy zreportować to na serwerze Discordowym!)
+<p>(Notka: wysoka jakość może nie działać na wszystkich przeglądarkach! Jeżeli niska jakość nie działa, prosimy zreportować to na serwerze Discordowym!)</p>
