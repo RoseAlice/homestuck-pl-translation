@@ -1,35 +1,39 @@
-TG: ah juz jestes 
-TG: john mowil ze jest pozar w twoim domu palisz sie juz czy co 
-TT: Na szczęście jeszcze nie. Póki co uciekłam do mniejszego budynku, który jest bliżej ognia. 
-TG: swietnie ulzylo mi 
-TG: john powiedzial mi zebym zagral z toba w sburb i teraz nad tym pracuje 
-TT: "Pracujesz nad tym"? 
-TG: tak dluga historia szukam kopii mojego brata
-TG: hej
-TG: nie mow tego johnowi ale chyba mial racje z lalkami
-TG: zaczynam sie ich bac
-TT: Chodzi ci o kolekcję twojego brata? 
-TG: zebys mnie dobrze zrozumiala nadal mysle ze te ironiczne 
-TG: pol-ironiczne lalki czy cos
-TG: cwierc-ironiczne
-TG: walic to
-TG: po prostu mysle ze to idzie troszeczke za daleko 
-TT: Widziałam jego strony. 
-TT: Powiem tylko, że podobały mi się. 
-TG: haha tobie to na pewno 
-TG: ja nie moge czemu lil cal sie na mnie tak patrzy 
-TG: z jego martwymi oczami jezu
-TG: czasami snie o tym ze jest zywy i do mnie rozmawia
-TT: Interesujące... 
-TG: o boze czemu wypaplalem ci moj sen
-TG: teraz bedziesz mnie dreczyla psychogownem co nie
-TT: W tej chwili szybko notuje moje obserwacje w specjalnym zeszyciku przeznaczonym specjalnie na analizę twoich zachowań i snów. Jutro możesz się spodziewać diagnozy. 
-TT: Bo przecież my obaj nie mamy nic innego do roboty niż badanie swoich najgłębszych patologii i fetyszów, co nie? 
-TG: dobra bede sie zbieral 
-TG: a rozmawiasz z johnem czy cos 
-TG: nie odpowiada mi
-TT: Mi tak samo, ale widzę go na ekranie swojego laptopa. 
-TT: Przypuszczam, że jest zajęty faktem, iż jego wskrzeszona babcia przebrana za arlekina zzrzuciła mu wiadro pełne wody na jego głowę. 
-TG: hahahahaha 
-TG: dobra spadam 
-TG: do zobaczenia
+|PESTERLOG|
+dave|TG|o jestes
+dave|TG|john wspominal cos ze twoj dom sie pali czy cos
+dave|TG|wiec jak palisz sie czy jeszcze nie
+rose|TT|Nie. Narazie udało mi się zbiec do mniejszego budynku.
+rose|TT|Jest on bliżej pożaru który zagraża mojemu domu.
+dave|TG|kamien z serca mi spadl
+dave|TG|john mi polecil ogarniecie kopii gry by ciebie stamtad wyciagnac wiec rozpracowywuje to
+rose|TT|Rozpracowywujesz to?
+dave|TG|tak tak kopia mojego brata dluga historia
+dave|TG|ej
+dave|TG|nie mow tego johnowi ale chyba mial racje odnosnie kukielek
+dave|TG|zaczynaja mi troche ryc banie
+rose|TT|Odnosisz się do kolekcji twojego brata?
+dave|TG|w sensie nie mowie ze to nie jest fajne
+dave|TG|to semi-ironiczne kolekcjonowanie lalek kukielek marionetek etc
+dave|TG|moze semi-semi ironiczne
+dave|TG|ja nawet nie wiem na jakim poziomie semi to jest
+dave|TG|po prostu sadze ze w pewnych aspektach idzie to za daleko i jest dziwne i pojebane
+rose|TT|Widziałam jego stronki.
+rose|TT|Podobały mi się.
+dave|TG|haha oczywiscie ze TOBIE by sie podobaly
+dave|TG|o kurwa cal sie na mnie tak patrzy swoimi martwymi oczami
+dave|TG|zawsze sie na mnie patrzy i mam dosyc
+dave|TG|czasami snie o tym ze rozmawia ze mna i budze sie w zimnym pocie i mam rozpierdol mentalny
+rose|TT|Hm, interesujące...
+dave|TG|zaraz czemu ci o tym mowie
+dave|TG|to ci pewnie zasili cale tygodnie psychologizowania mnie
+rose|TT|Mogę Ciebie zapewnić, iż mój psychoanalityczny dziennik na Twój temat powiększa się o kilka stron z minuty na minutę w wyniku tejże konwersacji. Spodziewaj się opublikowanych artykułów w niedalekiej przyszłości.
+rose|TT|Na szczęście nie mamy nic innego do roboty i możemy wzajemnie wytykać sobie i analizować nasze patologie tyle tylko ile chcemy, oczywiście.
+dave|TG|ano bede sie zbierac
+dave|TG|john cos do ciebie pisal
+dave|TG|nie odpowiada na moje wiadomosci
+rose|TT|Mi również nie odpowiada.
+rose|TT|Natomiast widzę go u siebie na laptopie.
+rose|TT|Z tegoż powodu mogę Ciebie poinformować iż jest on aktualnie zajęty tym iż duch jego babci, w przebraniu klauna, jest odpowiedzialny za wiadro zimnej wody które się przed chwilą wylało na jego głowę.
+dave|TG|hahahahaha
+dave|TG|dobra spadam
+dave|TG|czesc
