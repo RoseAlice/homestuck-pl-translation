@@ -1,6 +1,21 @@
-</script><script src="/Images/Homestuck/397/App.js"></script><div id="playback" style="width:650px;height:450px;">
+<!-- flash/ruffle crap -->
 
-	<div class="interact"><canvas id="glCanvas" width="650" height="450"></canvas></div><link rel="stylesheet" href="/Images/Homestuck/397/1.css" />
+<script type="text/javascript" src="/JS/FlashDetect.js"></script>
+<script type="text/javascript">
+  if(getFlashVersion() === -1) {
+    // no flash!
+    var script = document.createElement("script");
+    script.setAttribute("type", "text/javascript");
+    script.setAttribute("src", "https://unpkg.com/@ruffle-rs/ruffle");
+    document.head.appendChild(script);
+  }
+</script>
+
+<!-- actual flash object -->
+
+<div id="playback" style="width:650px;height:450px;">
+  <object type="application/x-shockwave-flash" data="/Images/Homestuck/397/Flash.swf" width="650" height="450">
+    <param name="movie" value="/Images/Homestuck/397/Flash.swf" />
+    <param name="quality" value="low" />
+  </object>
 </div>
-
-== FLASH PART 2 ==
