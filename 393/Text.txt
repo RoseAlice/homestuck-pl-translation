@@ -1,15 +1,7 @@
 <!-- flash/ruffle crap -->
 
 <script type="text/javascript" src="/JS/FlashDetect.js"></script>
-<script type="text/javascript">
-  if(getFlashVersion() === -1) {
-    // no flash!
-    var script = document.createElement("script");
-    script.setAttribute("type", "text/javascript");
-    script.setAttribute("src", "https://unpkg.com/@ruffle-rs/ruffle");
-    document.head.appendChild(script);
-  }
-</script>
+<script type="text/javascript" src="/JS/FlashChecker.js"></script>
 
 <!-- actual flash object -->
 
