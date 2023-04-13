@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "[S] WSTAWAJ JOHN, TO NIE JEST CZAS NA DRZEMKĘ.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1681402234,
+  "Asset": {
+    "Type": "Video",
+    "Translated": true,
+    "Perfect": true
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

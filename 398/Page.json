@@ -1,0 +1,21 @@
+{
+  "Version": 2,
+  "Title": "Rose: Zapomnij o W i idź dalej do mauzoleum.",
+  "Images": [
+    "1.gif"
+  ],
+  "Date": 1681402234,
+  "Asset": {
+    "Type": "Image",
+    "Translated": true,
+    "Perfect": false
+  },
+  "Contents": [
+    "Text.txt"
+  ],
+  "Links": [
+    {
+      "Destination": -1
+    }
+  ]
+}

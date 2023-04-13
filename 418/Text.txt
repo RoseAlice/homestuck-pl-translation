@@ -1,0 +1,21 @@
+<!-- flash/ruffle crap -->
+
+<script type="text/javascript" src="/JS/FlashDetect.js"></script>
+<script type="text/javascript">
+  if(getFlashVersion() === -1) {
+    // no flash!
+    var script = document.createElement("script");
+    script.setAttribute("type", "text/javascript");
+    script.setAttribute("src", "https://unpkg.com/@ruffle-rs/ruffle");
+    document.head.appendChild(script);
+  }
+</script>
+
+<!-- actual flash object -->
+
+<div id="playback" style="width:650px;height:450px;">
+  <object type="application/x-shockwave-flash" data="/Images/Homestuck/418/Flash.swf" width="650" height="450">
+    <param name="movie" value="/Images/Homestuck/418/Flash.swf" />
+    <param name="quality" value="high" />
+  </object>
+</div>
